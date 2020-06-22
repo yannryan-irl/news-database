@@ -1,0 +1,34 @@
+﻿title_id,name_of_title,type,BL_title_id,shortened_title,date_first_published,date_last_published,publisher_or_creator,printer,location,notes
+1,The Moderate Intelligencer,newsbook,2848952,ModInt,27-02-1645,27-09-1649,John Dillingham,Robert White/Robert Leybourn,London,Changes printer after dispute with Gilbert Mabbot for name rights
+3,Mercurius Pragmaticus,newsbook,2848629,MercPrag,14-09-1647,01-05-1649,"John Cleveland, Samuel Sheppard, Marchamont Nedham",Unknown,London,
+4,The Kingdomes Weekly Intelligencer,newsbook,2847082,KingWeekInt,27-12-1642,02-10-1649,Richard Collings,Robert White,London,Printer and publisher varies
+5,The Perfect Weekly Account,newsbook,2851085,PerfWeekAcc,28-04-1647,03-10-1649,Daniel Border,"Robert Wood, Barnard Alsop",London,
+6,A Perfect Diurnall,newsbook,2851058,PerfDiurn,26-06-1643,05-12-1649,Samuel Pecke,E.G. and F.L.,London,
+7,Mercurius Elencticus,polemic,2848564,MercElenc1,29-10-1647,02-01-1649,Samuel Sheppard,Unknown,London,
+8,Mercurius Melancholicus,polemic,,MercMelan,04-09-1647,01-01-1650,John Hackluyt,Unknown,London,
+9,A Briefe Relation,newsbook,,BriefRela,02-10-1649,01-10-1650,Walter Frost,Matthew Simmons,London,
+10,The Moderate,newsbook,2848949,TheMod,22-06-1648,18-09-1649,Gilbert Mabbot,Robert White,London,
+11,Perfect Occurences,newsbook,2851072,PerfOcc,01-01-1646,12/10/1649,Robert Ibbitson,Jane Coe,London,
+12,A Perfect Summary,newsbook,,PerfSumm,22-01-1649,01/10/1649,Theodore Jennings,Robert Ibbitson,,
+13,The Irish Mercury,newsbook,2830573,IrishMerc,25/01/1649,25/01/1649,Thomas Brewster and Gregory Moule,,"Cork, London","One issue, monthly"
+14,The Kingdoms Faithfull Scout,newsbook,,KingFaithScout,26/01/1648,05/10/1649,Daniel Border,"Robert Wood, G Horton",London,Big gap from Feb 1648 to Feb 1649
+15,The Impartiall Intelligencer,newsbook,2846329,ImpIntell,28/02/1649,12/09/1649,Jane Coe,Jane Coe,London,
+16,A Modest Narrative,newsbook,2849040,ModNarr,31/03/1649,15/09/1649,James Moxon,,London,
+17,Mercurius Philo-Monarchicus,polemic,,MercPhMo,10/04/1649,14/05/1649,Anonymous,,London,
+18,Man in the Moon,satire,,ManMoon,16/04/1649,29/05/1649,John Crouch,,,
+19,Continued Heads of Perfect Passages,newsbook,,ContHeads,13/04/1649,11/05/1649,Andrew Coe,,London,
+20,England's Moderate Messenger,newsbook,,EngModMess,23/04/1649,02/07/1649,Daniel Border,Robert Wood,London,"Conflating with proceding title, The Moderate Messenger"
+21,Mercurius Pragmaticus for Charles II,polemic,,MercPragCh1,17/04/1649,21/05/1650,"John Cleveland, Marchamont Nedham",,,
+22,Mercurius Britannicus,polemic,,MercBrit,24/04/1649,29/05/1649,Gilbert Mabbot,,London,
+23,Mercurius Elencticus for Charls II,polemic,,MercElencCh,30/04/1649,07/05/1649,Anonymous,,London,
+24,Mercurius Elencticus 2,polemic,2848565,MercElenc2,24/04/1649,29/10/1649,"Samuel Sheppard, George Wharton",,London,"New version of Elencticus, may combine them though"
+25,Mercurius Pragmaticus 2,polemic,,MercPrag2,01/05/1649,08/05/1649,,,,
+26,Mercurius Militaris,polemic,2848605,MercMili,10/10/1648,06/05/1649,John Harris,,London,
+27,A Moderate Intelligence,newsbook,,ModIntce,17/05/1649,31/05/1649,Robert White,Robert White,London,
+28,Mercurius Pacificus,polemic,2848610,MercPacif,17/05/1649,31/05/1649,John Taylor,,London,
+29,Mercurius Republicus,polemic,,MercRep,22/05/1649,22/05/1649,,Robert Leybourn,London,
+30,A Moderate,newsbook,,Amod,24/05/1649,31/05/1649,,,,
+31,Mercurius Melancholicus for Charles II,polemic,,MercMelanCh,24/05/1649,24/05/1649,John Taylor,,London,
+32,The Moderate Mercury,newsbook,,ModMerc,14/06/1649,21/06/1649,William Ley,,London,
+33,A Tuesdaies Journall,newsbook,,TuesJourn,17/07/1649,8/21/1649,Robert Ibbitson,,,
+34,The armies painfull-messenger,newsbook,,ArmieMess,25/07/1649,25/07/1649,Francis Leach,,,

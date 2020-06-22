@@ -1,0 +1,581 @@
+city_id,label_old,country2,lng,lat,wiki_title,wikidata_id,year,population,religion,distance_from_london
+417,Osnabruck,Germany,52.27888889,8.043055556,Osnabrück,Q2916,NA,NA,both,350.3774333
+419,Ober-Ingelheim,Germany,49.9634,8.05942,Ober-Ingelheim,Q2008825,NA,NA,both,357.147752
+422,Oldemburgh,Germany,53.14388889,8.213888889,Oldenburg,Q2936,NA,NA,both,372.8068117
+472,Biberach,Germany,48.09805556,9.788611111,Biberach an der Riss,Q16069,NA,NA,both,479.546541
+497,Ottingen,Germany,48.95,10.58333333,Oettingen in Bayern,Q556312,NA,NA,both,488.3128647
+503,Augsburg,Germany,48.37166667,10.89833333,Augsburg,Q2749,NA,21000,both,516.5387482
+506,Halberstat,Germany,51.89583333,11.04666667,Halberstadt,Q7072,NA,NA,both,474.6002311
+507,Ebersdorf,Czech Republic,49.42783697,15.55937544,Hybrálec,Q25845,NA,NA,both,483.9562092
+2,Dorr,France,42.48472222,1.938888889,Dorres,Q1093077,NA,NA,catholic,767.7867343
+9,Lisbon,Portugal,38.71666667,-9.166666667,Lisbon,Q597,1650,170000,catholic,963.8365923
+10,Galway,Ireland,53.2729,-9.0418,Galway,Q129610,NA,NA,catholic,418.7819771
+11,Tines,Norway,NA,NA,TineStafetten,Q19392555,NA,NA,catholic,695.8847736
+12,Viana,Spain,42.5151135,-2.3717803,Viana,Q907241,NA,NA,catholic,774.2836849
+13,Bunratty,Ireland,52.7,-8.81666667,Bunratty,Q4997899,NA,NA,catholic,398.9686883
+14,Mallow,Ireland,52.131,-8.6415,Mallow,Q922247,NA,NA,catholic,384.9387399
+15,Limerick,Ireland,52.6653,-8.6238,Limerick,Q133315,1659,3105,catholic,390.7760788
+16,Kinsale,Ireland,51.7075,-8.5305556,Kinsale,Q840681,NA,NA,catholic,376.6875749
+18,Cork,Ireland,51.9,-8.473055556,Cork,Q36647,1659,4826,catholic,375.5749442
+19,Tipperary,Ireland,52.474416,-8.161983,Tipperary,Q680220,NA,NA,catholic,368.5568213
+20,Athlone,Ireland,53.42361111,-7.9425,Athlone,Q369911,NA,NA,catholic,379.6947636
+21,Cahir,Ireland,52.375,-7.925,Cahir,Q516951,NA,NA,catholic,357.5172278
+22,Cashel,Ireland,52.516717,-7.889428,Cashel,Q1002183,NA,NA,catholic,358.0026586
+24,Thurles,Ireland,52.67888,-7.814369,Thurles,Q383188,NA,NA,catholic,357.668655
+25,Enniskillen,United Kingdom,54.345306,-7.634061,Enniskillen,Q990109,NA,NA,catholic,397.0533857
+26,Dungarvan,Ireland,52.0845,-7.6397,Dungarvan,Q581790,NA,NA,catholic,341.1701313
+27,Waterford,Ireland,52.2583,-7.119,Waterford,Q183551,NA,NA,catholic,340.666057
+28,Carrick-On-Suir,Ireland,52.346509,-7.411995,Carrick-on-Suir,Q1003187,NA,NA,catholic,335.678722
+29,Cavan,Ireland,53.991019,-7.360067,Cavan,Q215361,NA,NA,catholic,375.0693989
+31,Kilkenny,Ireland,52.6477,-7.2561,Kilkenny,Q109092,NA,4000,catholic,334.4118413
+32,Elvas,Portugal,38.88,-7.162777778,Elvas,Q243849,NA,NA,catholic,912.5494263
+33,Carlow,Germany,53.76666667,10.91666667,"Carlow, Germany",Q2054659,NA,NA,catholic,325.5714316
+34,Athboy,Ireland,53.616667,-6.916667,Athboy,Q754964,NA,NA,catholic,346.9555778
+35,Kildare,Ireland,53.156859,-6.909027,Kildare,Q917865,NA,NA,catholic,332.6769198
+36,"Allen, Kildare",Ireland,53.235756,-6.857887,"Allen, County Kildare",Q3775817,NA,NA,catholic,332.9643129
+37,Trim,Ireland,53.552241,-6.793413,Trim,Q1012496,NA,NA,catholic,340.0688335
+38,"Binares, Spain",Chile,-35.8454,-71.5979,Linares,Q14494,NA,NA,catholic,1005.622674
+42,Drogheda,Ireland,53.713889,-6.350278,Drogheda,Q207223,NA,NA,catholic,330.0276394
+44,Cadiz,Spain,36.51666667,-6.283333333,Cádiz,Q15682,1694,31000,catholic,1052.065292
+45,Rathfarnham,Ireland,53.29877778,-6.285447222,Rathfarnham,Q1317787,NA,NA,catholic,312.9997957
+47,Scilly,United Kingdom,49.922,-6.296,"Rocky Hill, Isles of Scilly",Q7355801,NA,NA,catholic,292.439982
+48,Dublin,Ireland,53.3425,-6.265833333,Dublin,Q1761,1682,64483,catholic,313.6011414
+51,Seville,Spain,37.38333333,-5.983333333,Seville,Q8717,1644,120000,catholic,990.7895219
+65,Malaga,Spain,36.71666667,-4.416666667,Malaga,Q8851,NA,NA,catholic,1015.175978
+81,Madrid,Spain,40.41888889,-3.691944444,Madrid,Q2807,1650,125000,catholic,757.3863146
+95,"Auray, Brittany",France,47.66527778,-2.97722222,Saint-Goustan,Q3398401,NA,NA,catholic,273.1537481
+147,Saint-Malo,France,48.64722222,-2.008888889,Saint-Malo,Q163108,NA,NA,catholic,192.0932067
+163,Rennes,France,48.11416667,-1.680833333,Rennes,Q647,NA,22000,catholic,219.4761098
+167,"Brix, Manche",France,49.54527778,-1.578888889,Brix,Q681382,NA,NA,catholic,128.8973097
+170,Nantes,France,47.21722222,-1.553888889,Nantes,Q12191,NA,40000,catholic,276.0200676
+195,La Rochelle,France,46.15944444,-1.151388889,La Rochelle,Q82185,NA,NA,catholic,343.4640277
+202,Cartagena,Chile,-33.55,-71.6,Cartagena,Q3738,1694,12000,catholic,930.3334581
+221,Bordeaux,France,44.83777778,-0.579444444,Bordeaux,Q1479,1628,36000,catholic,431.0385302
+222,Angers,France,47.47277778,-0.555555556,Angers,Q38380,1657,28000,catholic,249.7652035
+223,Conde,France,50.44916667,3.590555556,Condé-sur-l'Escaut,Q494533,NA,NA,catholic,155.3738767
+226,Tabarca,Tunisia,36.955,8.755,Tabarka,Q986213,NA,NA,catholic,890.6180453
+227,Alicante,Spain,38.34527778,-0.483055556,Alicante,Q11959,NA,NA,catholic,878.3637057
+230,Valencia,Philippines,7.9,125.0833333,Valencia,Q2158,1609,61000,catholic,800.6585309
+231,Caen,France,49.18222222,-0.370555556,Caen,Q41185,1697,35000,catholic,131.2658582
+237,Cadillac,France,44.63611111,-0.318611111,Cadillac,Q333571,NA,NA,catholic,444.090231
+249,"Denia, Spain",Spain,38.84027778,0.108611111,Dénia,Q646725,NA,NA,catholic,843.4565817
+255,Lisieux,France,49.14555556,0.225555556,Lisieux,Q188743,NA,NA,catholic,132.1629203
+258,Romagno,Italy,46.19499,12.90967,Romagnoi,Q18449050,NA,NA,catholic,330.8913423
+259,Gorgue,France,50.63833333,2.714166667,La Gorgue,Q631169,NA,NA,catholic,507.9072342
+263,Vinaros,Spain,40.46666667,0.466666667,Vinaròs,Q917888,NA,NA,catholic,731.3091306
+266,Flix,Spain,41.231043,0.550137,Flix,Q548045,NA,NA,catholic,679.1965995
+269,Lleida,Spain,41.61666667,0.633333333,Lleida,Q15090,NA,NA,catholic,652.6262866
+273,Les Borges Blanques,Spain,41.51944444,0.868333333,Les Borges Blanques,Q928006,NA,NA,catholic,659.7066021
+274,Limeuil,France,44.88527778,0.888888889,Limeuil,Q473001,NA,NA,catholic,428.0250782
+276,Dieppe,France,49.92166667,1.077777778,Dieppe,Q183557,NA,15000,catholic,88.67582809
+277,Rouen,France,49.44305556,1.1025,Rouen,Q30974,1650,81000,catholic,119.626806
+279,Verdu,France,49.15972222,5.382777778,Verdun,Q154748,NA,NA,catholic,654.1584049
+282,Tarragona,Spain,41.11868,1.24532,Tarragona,Q15088,NA,NA,catholic,688.6689135
+283,Cervera,Spain,41.6657,1.271001,Cervera,Q847011,NA,NA,catholic,650.5785861
+284,"Cervera, Catalonia",Spain,41.6657,1.271001,Cervera,Q847011,NA,NA,catholic,650.5785861
+291,Tolouse,France,43.60444444,1.443888889,Toulouse,Q7880,NA,42000,catholic,518.4793947
+294,Uzerche,France,45.42472222,1.563333333,Uzerche,Q201906,NA,NA,catholic,394.6733573
+297,Calais,France,50.9475,1.855555556,Calais,Q6454,NA,NA,catholic,75.6135505
+298,Crecy-en-Ponthieu,France,50.25222222,1.883055556,Crécy-en-Ponthieu,Q61765,NA,NA,catholic,95.11385824
+299,Orleans,France,47.90222222,1.904166667,Orléans,Q6548,1644,24000,catholic,232.3027431
+300,Ardres,France,50.85472222,1.9775,Ardres,Q262456,NA,NA,catholic,82.0294334
+301,Beauvais,France,49.43416667,2.0875,Beauvais,Q174257,NA,NA,catholic,142.006274
+303,Barcelona,Spain,41.3825,2.176944444,Barcelona,Q1492,1650,59000,catholic,674.917253
+304,Bourbourg,France,50.94638889,2.197777778,Bourbourg,Q632822,NA,NA,catholic,90.50419559
+305,Saint-Omer,France,50.74833333,2.260833333,Saint-Omer,Q208793,NA,NA,catholic,95.14310412
+306,Amiens,France,49.89194444,2.297777778,Amiens,Q41604,1698,32000,catholic,124.8178802
+307,Fort-Mardyck,France,51.031,2.3061,Fort-Mardyck,Q601863,NA,NA,catholic,94.87273746
+308,Litz,France,49.41638889,2.331666667,Litz,Q832080,NA,NA,catholic,149.7369924
+310,Paris,France,48.85694444,2.351388889,Paris,Q90,1650,455000,catholic,181.2717989
+311,Doullens,France,50.15666667,2.340277778,Doullens,Q69055,NA,NA,catholic,115.622236
+312,Dunkirk,France,51.03777778,2.376388889,Dunkirk,Q45797,NA,NA,catholic,98.00495578
+313,Bergues,France,50.96861111,2.434166667,Bergues,Q244934,NA,NA,catholic,100.6861096
+314,Veurne,Belgium,51.0722,2.6622,Veurne,Q506707,NA,NA,catholic,110.3746654
+316,Triers,Germany,49.75666667,6.641388889,Trier,Q3138,NA,NA,catholic,350.5241731
+317,Fontainebleau,France,48.40888889,2.701666667,Fontainebleau,Q182872,NA,NA,catholic,216.4867812
+318,Arras,France,50.28916667,2.78,Arras,Q131329,NA,13000,catholic,127.9212845
+319,La Bassee,France,50.53361111,2.807222222,La Bassée,Q375776,NA,NA,catholic,122.7605732
+320,Girona,Spain,41.98333333,2.816666667,Girona,Q7038,NA,NA,catholic,639.8189662
+321,Compiegne,France,49.41416667,2.822222222,Compiègne,Q180871,NA,NA,catholic,164.7311609
+322,Diksmuide,Belgium,51.03333333,2.866666667,Diksmuide,Q215244,NA,NA,catholic,119.3153925
+323,Dixmude,Belgium,51.03333333,2.866666667,Diksmuide,Q215244,NA,NA,catholic,119.3153925
+324,Lere,Mali,15.711667,-4.911667,Léré,Q540215,NA,NA,catholic,277.0547051
+326,Armentieres,France,50.68722222,2.880277778,Armentières,Q193925,NA,NA,catholic,123.1349537
+327,Perpignan,France,42.6975,2.894722222,Perpignan,Q6730,NA,NA,catholic,591.9238659
+328,Ypres,Belgium,50.85,2.883333333,Ypres,Q102728,1699,11900,catholic,121.3380526
+329,Ostend,Belgium,51.23333333,2.933333333,Ostend,Q12996,NA,NA,catholic,121.6823212
+330,Peronne,France,49.93222222,2.936388889,Péronne,Q217768,NA,NA,catholic,146.2728646
+331,"Calas, Mallorca",Spain,39.60527778,3.386111111,Cala Millor,Q990061,NA,NA,catholic,802.0486965
+332,Noyon,France,49.58111111,2.998888889,Noyon,Q49831,NA,NA,catholic,162.9310931
+333,Narbonne,France,43.18472222,3.003611111,Narbonne,Q6555,1698,8000,catholic,560.1390975
+334,Lille,France,50.63194444,3.0575,Lille,Q648,1669,64000,catholic,132.0813811
+336,Arleux,France,50.28027778,3.106388889,Arleux,Q61573,NA,NA,catholic,141.2827193
+339,Bruges,Belgium,51.20944444,3.22,Bruges,Q12994,NA,34000,catholic,135.0821598
+340,Cambray,France,50.17583333,3.234722222,Cambrai,Q181285,NA,NA,catholic,149.5905295
+341,Kortrijk,Belgium,50.83333333,3.266666667,Kortrijk,Q12995,NA,NA,catholic,137.9145878
+342,Saint-Quentin,France,49.84777778,3.285555556,Saint-Quentin,Q182744,NA,NA,catholic,162.5800391
+343,Lemgoe,Germany,52.028327,8.901232,Lippische Strohsemmel,Q1827530,NA,NA,catholic,384.1449291
+346,Agde,France,43.31,3.475277778,Agde,Q191396,NA,NA,catholic,557.4035279
+348,Auxerre,France,47.7975,3.566944444,Auxerre,Q167600,NA,NA,catholic,273.5392296
+349,Renel,Italy,43.33293,11.8956,Renello,Q18485935,NA,NA,catholic,157.4331443
+350,Laon,France,49.56333333,3.623611111,Laon,Q167141,NA,NA,catholic,185.8169952
+351,Guise,France,49.90027778,3.6275,Guise,Q271093,NA,NA,catholic,173.8461725
+352,Ghent,Belgium,51.05,3.716666667,Ghent,Q1296,NA,NA,catholic,156.8544332
+353,Brin,Italy,45.8882649,8.7901268,Brinzio,Q39519,NA,NA,catholic,494.9827195
+354,Reims,France,49.26527778,4.028611111,Reims,Q41876,1615,21000,catholic,213.823739
+360,Brussels,Belgium,50.84666667,4.3525,Brussels,Q239,NA,69000,catholic,185.1880475
+362,Antwerp,Belgium,51.21777778,4.400277778,Antwerp,Q12892,1645,56948,catholic,186.009381
+369,Mezieres,France,49.76,4.719444444,Charleville-Mézières,Q47383,NA,NA,catholic,221.6863225
+370,Avignon,France,43.94861111,4.808333333,Avignon,Q6397,1616,23000,catholic,537.1406075
+372,Lyon,France,45.75888889,4.841388889,Lyon,Q456,1650,80000,catholic,424.9679093
+373,Namur,Belgium,50.46666667,4.866666667,Namur,Q134121,NA,NA,catholic,211.5003853
+375,Dijon,France,47.32305556,5.041944444,Dijon,Q7003,1602,30000,catholic,340.4533162
+377,Marseille,France,43.29666667,5.376388889,Marseille,Q23482,1660,52000,catholic,590.1051352
+378,Marseilles,France,43.29666667,5.376388889,Marseille,Q23482,NA,66000,catholic,590.1051352
+379,Liege,Belgium,50.62499306,5.590731389,Liège,Q3992,1650,33000,catholic,239.8878463
+380,Longui,Germany,49.80805556,6.77,Longuich,Q569606,NA,NA,catholic,240.1114964
+381,Estaire,Canada,46.3106,-80.7953,"Estaire, Ontario",Q1369696,NA,NA,catholic,242.2194319
+384,Bellegarde-sur-Valserine,France,46.1075,5.825833333,Bellegarde-sur-Valserine,Q191475,NA,NA,catholic,430.0901459
+385,Toulon,France,43.125,5.930555556,Toulon,Q44160,NA,20000,catholic,612.0390876
+386,Roermond,Netherlands,NA,NA,Roermond,Q9783,NA,NA,catholic,255.0703673
+387,Malmedy,Belgium,50.41666667,6.016666667,Malmedy,Q159838,NA,NA,catholic,262.4894312
+388,Luxembourg,Luxembourg,49.61055556,6.132777778,Luxembourg,Q1842,NA,NA,catholic,283.6563649
+390,Thionville,France,49.35805556,6.168333333,Thionville,Q22640,NA,NA,catholic,292.4812103
+391,Metz,France,49.11972222,6.176944444,Metz,Q22690,1675,28000,catholic,300.3089759
+393,Nancy,France,48.69277778,6.183611111,Nancy,Q40898,1698,8000,catholic,315.9849574
+397,Aix de Provence,France,43.52777778,5.445555556,Aix-en-Provence,Q47465,NA,28000,catholic,415.6414633
+399,Montblank,France,43.39638889,3.367222222,Montblanc,Q639920,NA,NA,catholic,475.2365179
+401,Cologne,Germany,50.94222222,6.957777778,Cologne,Q365,1670,37000,catholic,297.8050678
+402,Bonn,Germany,50.73388889,7.099722222,Bonn,Q586,NA,NA,catholic,305.5980103
+404,Monaco,Monaco,43.73333333,7.416666667,Monaco,Q235,NA,NA,catholic,609.9981613
+405,Altorf,France,48.52222222,7.528333333,Altorf,Q22801,NA,NA,catholic,374.3785207
+406,Brisac,Germany,48.02888889,7.58,Breisach,Q489911,NA,NA,catholic,393.3327509
+409,Lahnstein,Germany,50.30111111,7.605555556,Lahnstein,Q569639,NA,NA,catholic,331.992387
+410,Munster (Germany),Germany,51.9625,7.625555556,Münster,Q2742,1650,8000,catholic,328.9614472
+411,Lingotto,Italy,45.0325,7.664444444,Lingotto,Q1478414,NA,NA,catholic,542.4739742
+412,Turin,Italy,45.06666667,7.7,Turin,Q495,1631,40000,catholic,541.9059288
+415,Bad Kreuznach,Germany,49.84694444,7.866944444,Bad Kreuznach,Q7047,NA,NA,catholic,351.3683417
+421,Santhia,Italy,45.36666667,8.166666667,Santhià,Q25206,NA,NA,catholic,540.2778291
+424,Maintz,Germany,50,8.266666667,Mainz,Q1720,NA,10000,catholic,365.9982266
+425,Mainz,Germany,50,8.266666667,Mainz,Q1720,NA,NA,catholic,365.9982266
+428,Frankenthal,Germany,49.53333333,8.35,Frankenthal,Q6905,NA,NA,catholic,378.7425636
+430,Vercelli,Italy,45.31666667,8.416666667,Vercelli,Q5990,NA,NA,catholic,550.4358745
+434,Limberg,Austria,46.74416667,15.23055556,Limberg bei Wies,Q176986,NA,NA,catholic,463.2873037
+446,Vigevano,Italy,45.31666667,8.866666667,Vigevano,Q40832,NA,6000,catholic,564.9784633
+448,Genoa,Italy,44.4108,8.9322,Republic of Genova,Q174306,NA,90000,catholic,615.2046643
+455,"Cagliari, Sardinia",Italy,39.3010962,8.8079453,"Siliqua, Sardinia",Q285124,NA,NA,catholic,926.6141356
+456,Pavia,Italy,45.18528056,9.155,Pavia,Q6259,NA,NA,catholic,580.9278565
+458,Milan,Italy,45.46694444,9.19,Milan,Q490,1650,105000,catholic,568.1144368
+460,Alsfeld,Germany,50.75111111,9.271111111,Alsfeld,Q488314,NA,NA,catholic,399.8600193
+463,Novarino,Italy,44.89297,7.99603,Novarino,Q18503375,NA,NA,catholic,566.0450802
+465,Chur,Switzerland,46.85212,9.52965,Chur,Q69007,NA,NA,catholic,516.7283388
+466,Lohr am Main,Germany,49.99361111,9.578333333,Lohr am Main,Q504774,NA,NA,catholic,422.2641259
+469,Fulda,Germany,50.55277778,9.6775,Fulda,Q3963,NA,NA,catholic,419.3092188
+471,Piacenza,Italy,45.05,9.7,Piacenza,Q13329,1618,33038,catholic,606.1724541
+473,La Spezia,Italy,44.10804444,9.828880556,La Spezia,Q8611,NA,NA,catholic,659.3524524
+474,Cassellis,Italy,41.31236,14.40466,Casselli,Q18436516,NA,NA,catholic,585.7209877
+475,Wirtzbourg,Germany,49.79444444,9.929444444,Würzburg,Q2999,NA,NA,catholic,441.4836152
+479,Cremona,Italy,45.13333333,10.03333333,Cremona,Q6231,1686,23000,catholic,612.5678955
+485,Livorno,Italy,43.55,10.31666667,Livorno,Q6761,NA,12000,catholic,704.4980915
+486,Parma,Italy,44.80147222,10.328,Parma,Q2683,NA,NA,catholic,640.6918932
+488,Porto Longone,Italy,42.76666667,10.4,Porto Azzurro,Q157837,NA,NA,catholic,749.7771129
+489,Castelnovo,Italy,46.05,11.48333333,Castelnuovo,Q265003,NA,NA,catholic,661.265814
+490,Lauingen,Germany,48.56666667,10.43333333,Lauingen,Q572921,NA,NA,catholic,491.267171
+493,Sabionetta,Italy,44.99916667,10.48972222,Sabbioneta,Q43014,NA,NA,catholic,636.2077143
+495,Lucca,Italy,43.85,10.51666667,Lucca,Q13373,1645,25000,catholic,695.4358954
+496,Piombino,Italy,42.934824,10.52212,Piombino,Q157824,NA,NA,catholic,745.0940249
+498,Castagneto Carducci,Italy,43.16666667,10.6,Castagneto Carducci,Q157745,NA,NA,catholic,734.8607249
+501,Mantua,Italy,45.15638889,10.79111111,Mantua,Q6247,NA,NA,catholic,638.6000603
+504,Modena,Italy,44.64582,10.92572,Modena,Q279,NA,NA,catholic,668.7913693
+510,Orbetello,Italy,42.43944444,11.2125,Orbetello,Q214849,NA,NA,catholic,792.9946207
+511,Florence,Italy,43.77138889,11.25416667,Florence,Q2044,1650,66000,catholic,722.9489134
+512,Bologna,Italy,44.49388889,11.34277778,Bologna,Q1891,1680,65002,catholic,689.872314
+513,Ingolstat,Germany,48.76361111,11.42611111,Ingolstadt,Q3004,NA,NA,catholic,527.9716306
+515,Breganze,Italy,45.7,11.56666667,Breganze,Q46357,NA,NA,catholic,642.1559264
+516,Munich,Germany,48.13719444,11.5755,Munich,Q1726,NA,NA,catholic,551.801494
+517,Civita Vecchia,Croatia,43.18333333,16.58333333,"Stari Grad, Croatia",Q220383,NA,NA,catholic,829.6489195
+518,Amberg,Germany,49.44444444,11.84833333,Amberg,Q7042,NA,NA,catholic,531.2053828
+520,Padua,Italy,45.40638889,11.87777778,Padua,Q617,1648,32714,catholic,666.6733122
+527,Cheb,Czech Republic,50.07975917,12.37399559,Cheb,Q193719,NA,NA,catholic,542.6885814
+529,Rome,Italy,41.89305556,12.48277778,Rome,Q220,1650,110000,catholic,862.6315343
+532,"Frascale, Italy",Italy,40.76666667,14.03333333,Procida,Q72432,NA,NA,catholic,873.5913419
+533,Elbogen,Czech Republic,50.18611597,12.75412608,Loket,Q936145,NA,NA,catholic,557.7711169
+534,Rieti,Italy,42.40443,12.856702,Rieti,Q13396,NA,NA,catholic,848.3438494
+535,Lamberg,Hungary,47.31916667,18.23916667,Lamberg Mansion in Bodajk,Q1037192,NA,NA,catholic,584.1718567
+536,Salzburg,Austria,47.7972,13.04768,Salzburg,Q34713,NA,NA,catholic,623.1232068
+539,Palermo,Italy,38.115658,13.361262,Palermo,Q2656,1650,132000,catholic,1102.745381
+540,Pilsen,Czech Republic,49.74138889,13.3825,Plzeň,Q43453,NA,NA,catholic,591.7572329
+541,Ancona,Italy,43.61666667,13.51666667,Ancona,Q3415,NA,NA,catholic,809.6075949
+542,Brandenberg,Austria,47.50805556,11.89083333,Brandenberg,Q256906,NA,NA,catholic,581.7591276
+543,Brandenburg,Germany,52.41166667,12.55611111,Brandenburg an der Havel,Q3931,NA,NA,catholic,581.7591276
+544,Gaeta,Italy,41.21666667,13.56666667,Gaeta,Q128089,NA,NA,catholic,934.7408524
+545,Novigrad,Croatia,45.32,13.56,Novigrad,Q5395,NA,NA,catholic,735.238354
+546,Novigrade,Croatia,45.32,13.56,Novigrad,Q5395,NA,NA,catholic,735.238354
+547,Fermo,Italy,43.16041944,13.7181,Fermo,Q13139,NA,NA,catholic,839.3614436
+549,Abruzzo,Italy,41.77777778,13.83,"Opi, Abruzzo",Q50114,NA,NA,catholic,890.8953215
+550,"Prooida, Naples",Italy,40.76666667,14.03333333,Procida,Q72432,NA,NA,catholic,973.6778223
+552,Chieti,Italy,42.35111389,14.16742778,Chieti,Q13138,NA,NA,catholic,895.589822
+553,Aversa,Italy,41.08333333,14.21666667,Aversa,Q19279,NA,NA,catholic,968.7673285
+554,Capua,Italy,41.10555556,14.21388889,Capua,Q58477,NA,NA,catholic,961.3204521
+555,Naples,Italy,40.83333333,14.25,Naples,Q2634,1650,265000,catholic,977.0507234
+557,Prague,Czech Republic,50.08333333,14.41666667,Prague,Q1085,1628,43523,catholic,633.9581586
+558,Ceske Budejovice,Czech Republic,48.97472222,14.47472222,České Budějovice,Q16506,NA,NA,catholic,653.9980712
+560,Benevento,Italy,41.13333333,14.78333333,Benevento,Q13437,NA,NA,catholic,979.5600562
+561,Styria,Austria,47.08666667,15.92611111,"Ilz, Styria",Q302589,NA,NA,catholic,721.9525016
+563,Zadar,Croatia,44.11666667,15.21666667,Zadar,Q3370,NA,NA,catholic,850.6429035
+564,Isole Tremiti,Italy,42.11666667,15.5,Isole Tremiti,Q51930,NA,NA,catholic,954.0823812
+566,Messina,Italy,38.18333333,15.55,Messina,Q13666,1653,47000,catholic,1165.434071
+567,Krems an der Donau,Austria,48.41666667,15.61666667,Krems an der Donau,Q131266,NA,NA,catholic,716.1201981
+568,Sebenico,Croatia,43.73388889,15.89555556,Šibenik,Q3549,NA,NA,catholic,893.0447018
+569,Glogow,Poland,51.65888889,16.08027778,Głogów,Q66013,NA,NA,catholic,690.7813624
+570,Korneuburg,Austria,48.34527778,16.33305556,Korneuburg,Q659841,NA,NA,catholic,748.4885628
+571,Vienna,Austria,48.20833,16.373064,Vienna,Q1741,1650,65000,catholic,753.5282901
+572,Split,Croatia,43.51,16.45,Split,Q1663,NA,NA,catholic,924.2498286
+573,Mistelbach,Germany,49.91666667,11.51666667,Mistelbach,Q514454,NA,NA,catholic,753.5206918
+575,"Glatz, Silesia",Poland,50.43777778,16.65277778,Kłodzko,Q284604,NA,NA,catholic,724.5244199
+576,Klodzko,Poland,50.43777778,16.65277778,Kłodzko,Q284604,NA,NA,catholic,724.5244199
+577,Wroclaw,Poland,51.10773,17.03533,Wrocław,Q1799,1611,37000,catholic,734.1952779
+578,Bratislava,Slovakia,48.14472222,17.11277778,Bratislava,Q1780,1665,15000,catholic,786.6840764
+580,Gyor,Hungary,47.68416667,17.63444444,Győr,Q134494,NA,NA,catholic,821.5225681
+581,Algiers,Algeria,36.77638889,3.058611111,Algiers,Q3561,1650,100000,catholic,767.7867343
+642,Witzburg,Germany,49.79444444,9.929444444,Würzburg,Q2999,NA,NA,catholic,767.7867343
+647,Dubrovnik,Republic of Ragusa,42.65,18.06666667,Republic of Ragusa,Q208169,NA,NA,catholic,1027.224079
+648,Nove Zamky,Slovakia,47.98305556,18.17277778,Nové Zámky,Q276362,NA,NA,catholic,836.5402576
+649,"Castro, Puglia",Italy,40.008,18.4265,"Castro, Apulia",Q52129,NA,NA,catholic,1165.108129
+650,Otranta,Italy,40.15,18.48333333,Otranto,Q52174,NA,NA,catholic,1159.92922
+651,Otranto,Italy,40.15,18.48333333,Otranto,Q52174,NA,NA,catholic,1160.084535
+652,Gdansk,Poland,54.36666667,18.63333333,Gdańsk,Q1792,1650,77000,catholic,807.9840361
+653,Kotor,Montenegro,42.42539,18.771191,Kotor,Q171080,NA,NA,catholic,1062.284312
+654,Montenegro,Brazil,-29.68888889,-51.46083333,Montenegro,Q1001470,NA,NA,catholic,1065.42376
+656,Vlore,Albania,40.45,19.48333333,Vlorë,Q159610,NA,NA,catholic,1181.085099
+657,Shkoder,Albania,42.06666667,19.5,Shkodër,Q131638,NA,NA,catholic,1107.507641
+658,Corfu,Greece,39.62388889,19.92138889,Corfu,Q205832,NA,NA,catholic,1238.874709
+659,Krakow,Poland,50.06138889,19.93722222,Kraków,Q31487,NA,9000,catholic,872.0861222
+660,Eger,Hungary,47.89888889,20.37472222,Eger,Q167109,NA,NA,catholic,934.1810249
+661,Kefalonia,Greece,38.2,20.5,Kefalonia,Q178488,NA,NA,catholic,1329.831314
+662,Zakynythos,Greece,37.78333333,20.9,Zakynthos,Q144869,NA,NA,catholic,1368.304832
+663,Warsaw,Poland,52.21666667,21.03333333,Warsaw,Q270,1669,14400,catholic,898.693765
+664,Xerso,Ukraine,46.63333333,32.6,Kherson,Q156732,NA,NA,catholic,1386.574317
+666,Aste,Netherlands,51.4031,5.7472,Asten,Q9810,NA,NA,catholic,1019.410699
+667,Lublin,Poland,51.23333333,22.56666667,Lublin,Q37333,NA,NA,catholic,971.7986103
+668,Miedzyrzec Podlaski,Poland,51.983333,22.8,Międzyrzec Podlaski,Q34267,NA,NA,catholic,974.6804794
+669,Kythira,Greece,36.06666667,23.14222222,Kythira Municipality,Q1493246,NA,NA,catholic,1529.177977
+670,Salamis,Republic of Cyprus,35.18333333,33.9,Salamis,Q767089,NA,NA,catholic,1455.290205
+671,Chalkis,Greece,38.4625,23.595,Chalkida,Q200133,NA,NA,catholic,1435.198546
+672,"Grodna, Prussia",Poland,52.2167,18.8167,"Grodna, Greater Poland Voivodeship",Q5610006,NA,NA,catholic,1014.874012
+673,Chania,Greece,35.51666667,24.01666667,Chania,Q182299,NA,NA,catholic,1599.973103
+674,Lemberg,France,49.00416667,7.379444444,Lemberg,Q22394,NA,NA,catholic,1053.305297
+676,Souda,Greece,35.48333333,24.06666667,Souda,Q544242,NA,NA,catholic,1603.005653
+677,Riga,Latvia,56.9475,24.10694444,Riga,Q1773,NA,NA,catholic,1051.825961
+679,Retimo,Greece,35.36666667,24.46666667,Rethymno,Q200908,NA,NA,catholic,1635.416139
+680,Heraklion,Greece,35.33333333,25.13333333,Heraklion,Q160544,NA,NA,catholic,1650.916807
+685,Smolensk,Russia,54.78277778,32.04527778,Smolensk,Q2337,NA,NA,catholic,1346.546564
+686,Cyprus,Iran,26.53333333,53.96666667,Kish Island,Q221883,NA,NA,catholic,1976.751886
+17,Sligo,Ireland,54.2667,-8.4833,Sligo,Q190002,NA,NA,catholic,424.1160815
+23,Youghal,Ireland,51.951671,-7.845612,Youghal,Q1012476,NA,NA,catholic,349.6342059
+94,Bridgwater,United Kingdom,51.128,-2.993,Bridgwater,Q914015,NA,NA,catholic,136.8315248
+146,Huntington,United Kingdom,52.715,-2.042,Huntington,Q260259,NA,NA,catholic,147.2941313
+281,Saint-Germain-en-Laye,France,48.89638889,2.090555556,Saint-Germain-en-Laye,Q185075,NA,NA,catholic,96.31624421
+302,Artois,France,50.5,2.5,Artois,Q159987,NA,NA,catholic,93.54167891
+449,Sardinia,Italy,40.05,9.083333333,Sardinia,Q1462,NA,NA,catholic,871.0834184
+454,Corsica,France,42.15,9.083333333,Corsica,Q22011067,NA,NA,catholic,747.9727314
+484,Elba,Italy,42.76277778,10.23944444,Elba,Q45328,NA,NA,catholic,745.765248
+551,Sicily,Italy,37.56666667,14.26666667,Sicily,Q4951156,NA,NA,catholic,1155.8922
+683,Chios,Greece,38.3725,26.1375,Chios,Q748832,NA,NA,catholic,1538.63418
+525,Venice,Italy,45.43811035,12.31814957,Venice,Q641,1650,134000,catholic,682.154634
+3,Alexandria,Egypt,31.2,29.91666667,Alexandria,Q87,1693,15000,unknown or other,3699.456127
+5,Newhaven,United Kingdom,50.8,0.06,Newhaven,Q573788,NA,NA,unknown or other,3421.09556
+7,"Bay of All Saints, Brazil",Brazil,-12.97083333,-38.51083333,Salvador,Q36947,NA,NA,unknown or other,4977.099199
+8,"Recif, Brazil",Brazil,-8.053888889,-34.88083333,Recife,Q48344,NA,NA,unknown or other,4574.269816
+46,Isle of Scilly,United Kingdom,49.9263,-6.2907,"Maypole, Isles of Scilly",Q11771940,NA,NA,unknown or other,292.439982
+49,Caringford,Ireland,54.04294,-6.18609,Carlingford,Q2669915,NA,NA,unknown or other,336.4805186
+54,Carrigfergus,United Kingdom,54.716,-5.809,Carrickfergus,Q1020354,NA,NA,unknown or other,354.1100349
+66,Moscow,Russia,55.75583333,37.61777778,Moscow,Q649,1650,105000,unknown or other,367.603373
+203,Goa,Philippines,13.7,123.5,Goa,Q208782,1695,20000,unknown or other,510.7307362
+219,Jerusalem,Israel,31.78333333,35.21666667,Jerusalem,Q1218,1613,10000,unknown or other,153.4233879
+292,Havana,Cuba,23.13666667,-82.35888889,Havana,Q1563,NA,NA,unknown or other,523.3973212
+345,Wallop,United Kingdom,51.1436,-1.59692,Over Wallop,Q7113435,NA,NA,unknown or other,149.4849849
+364,Adversa,United Kingdom,50.9989,-0.4707,Adversane,Q4686694,NA,NA,unknown or other,189.3345798
+395,Elve,Germany,NA,NA,NA,NA,NA,NA,unknown or other,562.4050091
+396,Krim,Austria,47.21833333,12.17333333,Krimml,Q253792,NA,NA,unknown or other,298.775332
+403,Andernach,Germany,50.43972222,7.401666667,Andernach,Q490058,NA,NA,unknown or other,321.6200266
+407,Engers,Germany,50.4239,7.54417,Engers,Q162681,NA,NA,unknown or other,328.0947221
+423,Moguntia,Germany,50,8.266666667,Mainz,Q1720,NA,NA,unknown or other,363.8791822
+467,Munden,Germany,51.41666667,9.65,Hann. Münden,Q165380,NA,NA,unknown or other,413.6363064
+476,Shombeck,Germany,50.76666667,12.01666667,Schömberg,Q539029,NA,NA,unknown or other,466.2431722
+480,Haken,Germany,52.7781,12.8292,Hakenberg (Brandenburg),Q1569910,NA,NA,unknown or other,452.9062457
+481,Eulenburg,Czech Republic,49.837476,17.245744,Sovinec,Q1014034,NA,NA,unknown or other,435.6567666
+494,Hassfurt,Germany,50.03533333,10.51230556,Haßfurt,Q492659,NA,NA,unknown or other,462.1899301
+526,Lohnhaun,Switzerland,46.6514,9.4276,Lohn,Q66694,NA,NA,unknown or other,580.4490176
+538,Tripoli,Libya,32.87519,13.18746,Tripoli,Q3579,1673,20000,unknown or other,1417.480797
+565,Elbe,Germany,51.85,12.05,Aken (Elbe),Q417336,NA,NA,unknown or other,672.3516123
+583,Bayra,India,NA,NA,Bayra,Q60436132,NA,NA,unknown or other,767.7867343
+584,Bazing,France,50.82527778,1.6625,Bazinghen,Q508964,NA,NA,unknown or other,767.7867343
+588,Chivas,Mexico,26.10262,-107.4086,"Chivas, Badiraguato",Q20275676,NA,NA,unknown or other,767.7867343
+591,Erford,Germany,50.97805556,11.02916667,Erfurt,Q1729,NA,15000,unknown or other,767.7867343
+603,Izmir,Turkey,38.41273,27.13838,İzmir,Q35997,NA,NA,unknown or other,767.7867343
+605,Landrecy,France,50.12555556,3.69,Landrecies,Q632808,NA,NA,unknown or other,767.7867343
+619,Pernambuco,Brazil,-7.721944444,-39.23888889,Cedro,Q716874,NA,NA,unknown or other,767.7867343
+620,Podolia,Ukraine,51.54861111,32.81833333,Podoliaki,Q4368106,NA,NA,unknown or other,767.7867343
+621,Port Ercole,Italy,42.39388889,11.20361111,Porto Ercole,Q1394400,NA,NA,unknown or other,767.7867343
+636,Tiburn,Austria,46.8233,13.4437,Teurnia,Q697154,NA,NA,unknown or other,767.7867343
+684,Constantinople,Turkey,41.01,28.96027778,Istanbul,Q406,NA,400000,unknown or other,1536.895239
+687,Ceylon,Canada,49.4567,-104.606,Ceylon,Q1999559,NA,NA,unknown or other,5400.988741
+40,Lewes,United Kingdom,50.872,0.013,Lewes,Q246884,NA,NA,unknown or other,560.9334924
+1,"Scio, Levant",Greece,38.3725,26.1375,Chios,Q748832,NA,NA,orthodox,5010.179208
+641,Wiggin,NA,NA,NA,NA,NA,NA,NA,orthodox,767.7867343
+4,"Deale, Kent",United Kingdom,51.2226,1.4006,Deal,Q1011096,NA,NA,protestant,3679.917646
+30,Derry,Northern Ireland,54.99166667,-7.341666667,Derry,Q163584,NA,NA,protestant,412.4590458
+39,Coleraine,United Kingdom,55.133,-6.661,Coleraine,Q1108185,NA,NA,protestant,399.1077402
+41,Dundalk,Ireland,54.009,-6.4049,Dundalk,Q204956,NA,NA,protestant,342.3024301
+43,Newry,United Kingdom,54.17555556,-6.349166667,Newry,Q269980,NA,NA,protestant,347.1190255
+52,Belfast,United Kingdom,54.59638889,-5.93,Belfast,Q10686,NA,NA,protestant,352.3601593
+53,Carrickfergus,United Kingdom,54.716,-5.809,Carrickfergus,Q1020354,NA,NA,protestant,354.1100349
+55,Pool,United Kingdom,50.228,-5.266,Pool,Q1011091,NA,NA,protestant,243.852324
+56,Falmouth,Canada,44.99858056,-64.16161944,Falmouth,Q291134,NA,NA,protestant,237.4151502
+57,Truro,United Kingdom,50.25,-5.05,Truro,Q180803,NA,NA,protestant,234.085392
+58,Milford Haven,United Kingdom,51.71418056,-5.042738889,Milford Haven,Q991055,NA,NA,protestant,227.5278404
+59,Tangiers,Morocco,35.78472222,-5.8125,Tangier,Q126148,NA,NA,protestant,226.0839803
+61,"Bodman, Cornwall",United Kingdom,50.466,-4.718,Bodmin,Q889888,NA,NA,protestant,216.1958577
+62,Tenby,United Kingdom,51.67138889,-4.699444444,Tenby,Q558878,NA,NA,protestant,213.7255195
+63,Isle of Man,Canada,43.61666667,-79.61666667,Regional Municipality of Peel,Q50811,NA,NA,protestant,294.14859
+64,St. Johnstons,Ireland,54.93472222,-7.458333333,St Johnston,Q2080441,NA,NA,protestant,381.6949554
+67,Lanceston,United Kingdom,50.635,-4.354,Launceston,Q287590,NA,NA,protestant,198.6405331
+68,Caermarthen,United Kingdom,51.85694444,-4.316388889,Carmarthen,Q835835,NA,NA,protestant,199.0433584
+69,Caernarven,United Kingdom,53.14,-4.27,Caernarfon,Q428829,NA,NA,protestant,236.3344295
+71,Plymouth,United Kingdom,16.70641667,-62.21583889,Plymouth,Q30990,NA,7000,protestant,192.9418991
+72,Beaumorris,Australia,-37.983,145.043,Beaumaris,Q813411,NA,NA,protestant,237.8234579
+73,Aberyswyth,United Kingdom,52.41666667,-4.066666667,Aberystwyth,Q213154,NA,NA,protestant,203.4573259
+74,Barnstaple,United Kingdom,51.0823,-4.0489,Barnstaple,Q808532,NA,NA,protestant,182.1979812
+75,Swansea,United Kingdom,51.61666667,-3.95,Swansea,Q23051,NA,NA,protestant,180.4313971
+79,Salcomb,United Kingdom,50.237,-3.782,Salcombe,Q1247786,NA,NA,protestant,180.5723775
+80,Ashburton,Australia,-37.86694444,145.0830556,Ashburton,Q724906,NA,NA,protestant,173.96451
+82,Crediton,Canada,43.31666667,-81.5,South Huron,Q4397,NA,NA,protestant,166.5507371
+83,Exford,Australia,-37.745,144.559,Exford,Q5420166,NA,NA,protestant,164.0822466
+84,Dartmouth,Canada,44.6667,-63.5667,Dartmouth,Q497373,NA,NA,protestant,169.8663138
+85,Waram,Indonesia,NA,NA,Warami,Q25023091,NA,NA,protestant,240.7130922
+86,Exeter,United Kingdom,50.72153889,-3.533108333,Exeter,Q134672,NA,10000,protestant,161.6145835
+87,Tiverton,United Kingdom,50.903,-3.488,Tiverton,Q637298,NA,NA,protestant,158.3636166
+88,Minehead,United Kingdom,51.2038,-3.4738,Minehead,Q1020217,NA,NA,protestant,157.2278402
+89,Markham,Canada,43.8833,-79.25,Markham,Q44016,NA,NA,protestant,150.9258425
+90,Edinburgh,United Kingdom,55.95,-3.198888889,Edinburgh,Q23436,1650,48000,protestant,365.3083786
+91,Cardiff,United Kingdom,51.48,-3.18,Cardiff,Q10690,NA,NA,protestant,146.4244858
+96,Dodelston,United Kingdom,53.12405278,-2.933625,Dodleston,Q1824365,NA,NA,protestant,194.9242832
+98,Liverpool,United Kingdom,53.41666667,-3,Liverpool,Q24826,NA,1000,protestant,207.5891353
+99,Chester,United Kingdom,53.2,-2.883333333,Chester,Q170263,NA,8000,protestant,195.5271768
+100,Kircham,Mali,16.35,-3.25,Kirchamba,Q1768660,NA,NA,protestant,227.1393363
+103,Raglan,United Kingdom,51.7649,-2.85,Raglan,Q744944,NA,NA,protestant,137.8148047
+104,Lancaster,United Kingdom,54.047,-2.801,Lancaster,Q205905,NA,NA,protestant,240.6763455
+105,Shrewsbury,United Kingdom,52.70805556,-2.754444444,Shrewsbury,Q201970,NA,NA,protestant,167.8295876
+106,Kendal,United Kingdom,54.326,-2.745,Kendal,Q994575,NA,NA,protestant,256.108852
+108,Orkney,South Africa,-26.97888889,26.66916667,Orkney,Q1788096,NA,NA,protestant,556.7462945
+109,Hereford,United Kingdom,52.05638889,-2.716111111,Hereford,Q204720,NA,NA,protestant,141.3418781
+110,Brougham,United Kingdom,54.6445,-2.724763889,Brougham,Q4975780,NA,NA,protestant,275.5882747
+112,Monmouth,United Kingdom,51.81,-2.72,Monmouth,Q156990,NA,NA,protestant,133.5669403
+113,Preston,United Kingdom,53.75944444,-2.698055556,Preston,Q184090,NA,NA,protestant,221.8169015
+114,Ilchester,United Kingdom,51.0011,-2.6825,Ilchester,Q1244536,NA,NA,protestant,122.5064531
+115,Chestow,United Kingdom,51.64194444,-2.675,Chepstow,Q771986,NA,NA,protestant,127.9665379
+116,Barwick,United Kingdom,55.76666667,-2,Berwick-upon-Tweed,Q504678,NA,NA,protestant,120.4852004
+117,Bristol,United Kingdom,51.45,-2.583333333,Bristol,Q23154,1607,12000,protestant,121.1004784
+121,Sherborne,United Kingdom,50.9491,-2.5183,Sherborne,Q586895,NA,NA,protestant,115.7926991
+124,Swineford,United Kingdom,51.421,-2.445,Swineford,Q7658471,NA,NA,protestant,114.4323937
+126,Portland (UK),United Kingdom,53.07,-0.95,Southwell,Q1433341,NA,NA,protestant,117.6824821
+128,Bolton,United Kingdom,53.58333333,-2.433333333,Bolton,Q184579,NA,NA,protestant,205.1505574
+129,Salop,Croatia,45.098,15.697,Salopek Luke,Q1528353,NA,NA,protestant,169.9277209
+131,Bath,United Kingdom,51.381389,-2.358611,Bath,Q22889,NA,1000,protestant,110.3976009
+132,Bury,France,48.99888889,6.100277778,Marieulles,Q22225,NA,NA,protestant,203.0596725
+134,Manchester,United Kingdom,53.46666667,-2.233333333,Manchester,Q18125,NA,5000,protestant,195.4484675
+138,Titbury,United Kingdom,51.4606,0.3582,Tilbury,Q648432,NA,NA,protestant,106.8966462
+140,Tewkesbury,United Kingdom,51.986,-2.136,Tewkesbury,Q1000717,NA,NA,protestant,117.5826205
+143,Stafford,United Kingdom,52.8066,-2.1171,Stafford,Q826782,NA,NA,protestant,154.3517969
+145,Castle of Dudley,United Kingdom,52.5161,-2.07167,"Castle Gate, Dudley",Q5050085,NA,NA,protestant,138.0806747
+148,Delph,United Kingdom,53.5688,-2.02341,Delph,Q3705152,NA,NA,protestant,195.9979482
+149,Skipton,United Kingdom,53.962,-2.017,Skipton,Q516131,NA,NA,protestant,220.1566572
+150,Berwick,United Kingdom,55.76666667,-2,Berwick-upon-Tweed,Q504678,NA,NA,protestant,337.6937052
+151,Berwick-upon-Tweed,United Kingdom,55.76666667,-2,Berwick-upon-Tweed,Q504678,NA,NA,protestant,337.6937052
+153,Evesham,United Kingdom,52.09,-1.95,Evesham,Q585963,NA,NA,protestant,114.5107142
+154,Bernard Castle,United Kingdom,54.55,-1.92,Barnard Castle,Q808437,NA,NA,protestant,255.8782644
+155,Uttoxiter,United Kingdom,52.898,-1.86,Uttoxeter,Q2086137,NA,NA,protestant,153.1211962
+158,Salisbury,Zimbabwe,-17.82916667,31.05222222,Harare,Q3921,NA,NA,protestant,83.98669255
+160,Lintz,United Kingdom,54.904,-1.739,Lintz,Q6471318,NA,NA,protestant,277.140999
+162,Alnwick,United Kingdom,55.4050965,-1.7152155,Alnwick,Q1002826,NA,NA,protestant,310.5778756
+164,Burford,United Kingdom,51.808,-1.637,Burford,Q2019274,NA,NA,protestant,92.03585279
+165,Newcastle,Australia,-32.91666667,151.75,Newcastle,Q57278,NA,13000,protestant,280.6148272
+171,Chippingnorton,United Kingdom,51.94,-1.55,Chipping Norton,Q1065474,NA,NA,protestant,94.55788114
+172,Derby,United Kingdom,52.91666667,-1.466666667,Derby,Q43475,NA,NA,protestant,146.2111282
+174,Ashbydelazouch,United Kingdom,52.746,-1.476,Ashby-de-la-Zouch,Q2046537,NA,NA,protestant,135.4840152
+175,Southampton,United Kingdom,50.906944,-1.404722,Southampton,Q79848,NA,NA,protestant,67.74322799
+176,Banbury,United Kingdom,52.06138889,-1.339166667,Banbury,Q806160,NA,NA,protestant,93.9035724
+178,Donnington,United Kingdom,50.81173889,-0.787961111,Donnington,Q666080,NA,NA,protestant,67.95742792
+179,Newbury,United Kingdom,51.4009,-1.3235,Newbury,Q655874,NA,NA,protestant,67.54304962
+180,Carisbrooke,United Kingdom,50.6917,-1.31725,Carisbrooke,Q1240936,NA,NA,protestant,68.15929522
+182,Pontefract,United Kingdom,53.691,-1.312,Pontefract,Q1009235,NA,NA,protestant,192.0343585
+186,Tadcaster,United Kingdom,53.8852,-1.262,Tadcaster,Q784467,NA,NA,protestant,203.9844787
+187,Oxford,United Kingdom,51.75194444,-1.257777778,Oxford,Q34217,NA,9000,protestant,77.01847969
+189,Knotingly,United Kingdom,53.705,-1.249,Knottingley,Q1777543,NA,NA,protestant,192.4178125
+193,Wickham,United Kingdom,50.9,-1.19,Wickham,Q642227,NA,NA,protestant,58.49101773
+194,Nottingham,United Kingdom,52.955,-1.149166667,Nottingham,Q41262,NA,6000,protestant,142.6448316
+196,"Sandown, Kent",United Kingdom,50.6551,-1.1541,Sandown,Q516605,NA,NA,protestant,62.41869045
+197,Leicester,United Kingdom,52.63333333,-1.133333333,Leicester,Q83065,NA,5000,protestant,122.0190531
+199,York,United Kingdom,53.95,-1.083333333,York,Q42462,NA,12000,protestant,206.6470924
+200,Portsmouth,United Kingdom,50.80583333,-1.087222222,Portsmouth,Q72259,NA,NA,protestant,54.94595392
+204,Holdenby,United Kingdom,52.301,-0.982,Holdenby,Q4443243,NA,NA,protestant,98.57324288
+205,Reading,United Kingdom,51.45416667,-0.973055556,Reading,Q161491,NA,NA,protestant,54.66970714
+206,Market Harborough,United Kingdom,52.4775,-0.9206,Market Harborough,Q783570,NA,NA,protestant,108.1495286
+208,Medbourne,United Kingdom,52.529,-0.82217,Medbourne,Q11776781,NA,NA,protestant,109.6559536
+209,"Newark-on-Trent, UK",United Kingdom,53.0765,-0.81,Newark-on-Trent,Q49940,NA,NA,protestant,145.0444712
+210,"Newark, UK",United Kingdom,53.0765,-0.81,Newark-on-Trent,Q49940,NA,NA,protestant,145.0444712
+213,Gainsborough,United Kingdom,53.4016,-0.7732,Gainsborough,Q288082,NA,NA,protestant,166.1432149
+214,Maidenhead,United Kingdom,51.51666667,-0.716666667,Maidenhead,Q238803,NA,NA,protestant,49.06028635
+215,Rockingham,Australia,-32.281,115.727,Rockingham,Q705385,NA,NA,protestant,107.4302143
+217,Bagshot,United Kingdom,51.3607,-0.6982,Bagshot,Q4842133,NA,NA,protestant,41.4011367
+218,Grantham,United Kingdom,52.91805556,-0.638055556,Grantham,Q846683,NA,NA,protestant,132.4539591
+220,Windsor,Canada,45.5667,-72,Windsor,Q139415,NA,NA,protestant,43.74159749
+225,Dunstable,United Kingdom,51.886,-0.52102,Dunstable,Q919778,NA,NA,protestant,63.75843674
+228,Bedford,Canada,45.11666667,-72.98333333,Bedford,Q141987,NA,NA,protestant,79.00567455
+229,Scarborough,United Kingdom,54.28333333,-0.4,Scarborough,Q743521,NA,NA,protestant,223.8258604
+232,Hull,United Kingdom,53.744333,-0.3325,Kingston upon Hull,Q128147,NA,3000,protestant,186.7801866
+233,Kingston upon Hull,United Kingdom,53.744333,-0.3325,Kingston upon Hull,Q128147,NA,NA,protestant,186.7801866
+234,Hampton Court,Suriname,5.9,-56.91666667,"Hampton Court, Suriname",Q5646176,NA,NA,protestant,31.42103343
+235,Harrow,United Kingdom,51.5836,-0.3464,Harrow,Q54961,NA,NA,protestant,41.24622166
+236,St Albans,United Kingdom,51.755,-0.336,St Albans,Q6226,NA,NA,protestant,52.16129156
+239,Hitchin,United Kingdom,51.947,-0.283,Hitchin,Q19798,NA,NA,protestant,64.46280762
+240,Hatfield,United Kingdom,51.762,-0.228,Hatfield,Q19788,NA,NA,protestant,51.10127963
+243,Oaklands,Australia,-35.53333333,146.1666667,Oaklands,Q2525773,NA,NA,protestant,56.04834917
+244,London,United Kingdom,51.50722222,-0.1275,London,Q84,1650,410000,protestant,32.95070132
+246,Royston,United Kingdom,52.0471,-0.0202,Royston,Q19804,NA,NA,protestant,68.80145719
+248,Lido,Serbia,44.83944444,20.42472222,Lido,Q3081007,NA,NA,protestant,NA
+250,Cambridge,United Kingdom,52.20805556,0.1225,Cambridge,Q350,NA,9000,protestant,79.6731573
+251,Wisbech,United Kingdom,52.66416111,0.160311111,Wisbech,Q1012031,NA,NA,protestant,111.5477228
+254,Dartford,United Kingdom,51.45,0.216666667,Dartford,Q858775,NA,NA,protestant,27.06904527
+256,Saffron Walden,United Kingdom,52.0262,0.2449,Saffron Walden,Q183329,NA,NA,protestant,66.76333252
+257,Isle of Ely,United Kingdom,54.15,-4.481944444,Douglas,Q18569,NA,NA,protestant,93.08945595
+260,Gravesend,United Kingdom,51.44166667,0.368611111,Gravesend,Q676689,NA,NA,protestant,27.91258007
+262,King's Lynn,United Kingdom,52.7543,0.3976,King's Lynn,Q157341,NA,NA,protestant,118.1693822
+267,Essex,Canada,42.08333333,-82.9,Essex,Q559147,NA,NA,protestant,53.50759451
+270,"Cavendish, Suffolk",United Kingdom,52.087,0.633,Cavendish,Q1821172,NA,NA,protestant,74.538185
+272,Colchester,United Kingdom,51.888611,0.903611,Colchester,Q184163,NA,10000,protestant,64.62655395
+275,Canterbury,United Kingdom,51.27833333,1.0775,Canterbury,Q29303,NA,NA,protestant,43.87720736
+280,Ipswich,United Kingdom,52.05944444,1.155555556,Ipswich,Q184775,NA,8000,protestant,81.89709276
+286,Norwich,United Kingdom,52.628056,1.299167,Norwich,Q130191,1693,28881,protestant,119.1879054
+288,Sandwich,United Kingdom,51.27472222,1.338888889,Sandwich,Q26163,NA,NA,protestant,54.72365297
+289,Walmer,United Kingdom,51.2043,1.3985,Walmer,Q2551894,NA,NA,protestant,55.89588574
+296,Great Yarmouth,United Kingdom,52.63333333,1.75,Great Yarmouth,Q237253,NA,NA,protestant,127.4134369
+355,Hulst,Netherlands,51.3158,4.0539,Hulst,Q10073,NA,NA,protestant,171.6913699
+356,Brielle,Netherlands,51.90416667,4.163888889,Brielle,Q462663,NA,NA,protestant,183.242716
+357,The Hague,Netherlands,52.08416667,4.3175,The Hague,Q36600,1622,16000,protestant,192.3816257
+358,Bergen op Zoom,Netherlands,51.5,4.3,Bergen op Zoom,Q9814,NA,NA,protestant,183.8429173
+359,Delft,Netherlands,52.01194444,4.359444444,Delft,Q690,1680,24000,protestant,192.9253575
+363,Rotterdam,Netherlands,51.9225,4.47917,Rotterdam,Q34370,1632,30000,protestant,195.9629315
+365,Leiden,Netherlands,52.15444444,4.494722222,Leiden,Q43631,1650,63000,protestant,202.5851029
+368,Dort,Germany,50.14888889,7.59,Dörth,Q674272,NA,NA,protestant,202.870868
+371,Breda,Netherlands,51.5875,4.775,Breda,Q9822,NA,NA,protestant,206.3588121
+374,Amsterdam,Amsterdam,52.383333,4.9,Amsterdam,Q727,1650,165000,protestant,222.0208879
+382,Maastricht,Netherlands,50.86666667,5.683333333,Maastricht,Q1309,NA,18000,protestant,244.7058762
+383,Foy,Belgium,50.0447,5.7489,Foy,Q1018698,NA,NA,protestant,257.1827135
+389,Kleve,Germany,51.7875,6.135277778,Kleve,Q6842,NA,NA,protestant,264.5673705
+392,Venlo,Netherlands,51.36666667,6.166666667,Venlo,Q9777,NA,NA,protestant,263.6996768
+398,Dusseldorf,Germany,51.23114444,6.772380556,Düsseldorf,Q1718,NA,NA,protestant,NA
+408,Basel,Switzerland,47.56055556,7.590555556,Basel,Q78,NA,10000,protestant,414.9306681
+413,Strasbourg,France,48.57333333,7.752222222,Strasbourg,Q6602,1650,20000,protestant,380.4619324
+414,Bacharach,Germany,50.06111111,7.769444444,Bacharach,Q523273,NA,NA,protestant,343.3730234
+420,Landau in der Pfalz,Germany,49.19944444,8.123055556,Landau in der Pfalz,Q7052,NA,NA,protestant,377.3535138
+427,Baden,Germany,48.83722222,10.09361111,Neuquén,Q3951,NA,NA,protestant,444.6736554
+429,Worms,Germany,49.63194444,8.365277778,Worms,Q3852,NA,NA,protestant,377.0952739
+431,Speyer,Germany,49.31944444,8.431111111,Speyer,Q6829,NA,NA,protestant,387.271469
+432,Wetzlar,Germany,50.56666667,8.5,Wetzlar,Q4178,NA,NA,protestant,368.1349275
+433,Zurich,Switzerland,47.37861111,8.54,Zürich,Q72,NA,8000,protestant,457.4756573
+436,Giessen,Germany,50.58333333,8.666666667,Gießen,Q3874,NA,NA,protestant,375.4796049
+437,Frankfurt am Main,Germany,50.11361111,8.679722222,Frankfurt am Main,Q1794,1655,12500,protestant,381.9059218
+438,Heidelberg,Germany,49.41222222,8.71,Heidelberg,Q2966,NA,NA,protestant,396.7137974
+439,Paderborne,Germany,51.72,8.75542,Paderborner Land,Q2045905,NA,NA,protestant,375.5957455
+440,Padernborn,Germany,51.71666667,8.766666667,Paderborn,Q2971,NA,NA,protestant,375.5957455
+441,Friedberg,Czech Republic,48.66102742,14.16562852,Frymburk,Q164536,NA,NA,protestant,381.8608832
+442,Friedburg,Austria,48.0203,13.2431,Friedburg,Q1456394,NA,NA,protestant,381.8608832
+443,Marburg,Slovenia,46.55,15.63333333,Maribor,Q1010,NA,NA,protestant,377.7918102
+444,Bremen,Germany,53.07694444,8.808888889,Bremen,Q24879,1623,23000,protestant,394.8651782
+445,Marsberg,Germany,51.45,8.85,Marsberg,Q5645,NA,NA,protestant,379.4703981
+447,Minden,Germany,52.28833333,8.916666667,Minden,Q3846,NA,NA,protestant,386.9075372
+450,Hessen,Germany,52.0183,10.7805,Hessen,Q896361,NA,NA,protestant,390.7728624
+451,Bobenhausen,Germany,50.3697,9.03703,Bobenhausen I,Q888730,NA,NA,protestant,393.6522429
+452,Tubinguen,Germany,48.52,9.055555556,Tübingen,Q3806,NA,NA,protestant,435.6210468
+453,Steinheim,Germany,51.86583333,9.094444444,Steinheim,Q202377,NA,NA,protestant,390.8854077
+459,Friedrichsburg,Germany,NA,NA,Friedrichsburg,Q24841868,NA,NA,protestant,396.6931674
+462,Gluckstat,Germany,53.79166667,9.421944444,Glückstadt,Q377277,NA,NA,protestant,435.530308
+464,Kassel,Germany,51.31577778,9.497916667,Kassel,Q2865,NA,NA,protestant,407.7850945
+468,Rendsburg,Germany,54.30444444,9.664444444,Rendsburg,Q490457,NA,NA,protestant,458.7217552
+470,Lindau,Switzerland,47.44305556,8.671944444,Lindau,Q65759,NA,NA,protestant,494.8136415
+477,Ulm,Germany,48.39841,9.99155,Ulm,Q3012,1656,2000,protestant,477.9827041
+478,Hamburg,Germany,53.55,10,Hamburg,Q1055,1680,54000,protestant,451.8158345
+482,Mittelberg,Netherlands,51.499722,3.613611,Middelburg_(Zeeland),Q52101,NA,30000,protestant,521.6813653
+483,Memmingen,Germany,47.98777778,10.18111111,Memmingen,Q14825,NA,NA,protestant,499.0368882
+491,Schmalkalden,Germany,50.71666667,10.45,Schmalkalden,Q489147,NA,NA,protestant,451.6953274
+492,Nordlingen,Germany,48.85,10.5,Nördlingen,Q489902,NA,8000,protestant,485.985409
+499,Lubeck,Germany,53.869722,10.686389,Free and Hanseatic City of Lübeck,Q950240,NA,31000,protestant,485.5631485
+500,Donauwerth,Germany,48.71843056,10.77698889,Donauwörth,Q53742,NA,NA,protestant,501.8544768
+502,Bamberg,Germany,49.89166667,10.89166667,Bamberg,Q3936,NA,NA,protestant,481.175678
+505,Erfurt,Germany,50.97805556,11.02916667,Erfurt,Q1729,1620,19014,protestant,474.6623386
+508,Nuremberg,Germany,49.45277778,11.07777778,Nuremberg,Q2090,NA,25000,protestant,497.0203229
+514,Wismar,Germany,53.8925,11.465,Wismar,Q7030,NA,NA,protestant,516.5446543
+519,Zealand,Suriname,NA,NA,Zealand,Q59134180,NA,NA,protestant,576.6321223
+521,Gothenburg,Sweden,57.6717061,11.98096669,Gothenburg,Q25287,NA,NA,protestant,661.3503653
+522,Gottenberg,Sweden,57.6717061,11.98096669,Gothenburg,Q25287,NA,NA,protestant,661.3503653
+523,Regensburg,Germany,49.01666667,12.08333333,Regensburg,Q2978,NA,6000,protestant,550.714818
+528,Leipzig,Germany,51.33333333,12.38333333,Leipzig,Q2079,1617,15136,protestant,532.1198725
+530,Copenhagen,Denmark,55.67611111,12.56888889,Copenhagen,Q1748,1640,29850,protestant,604.2882821
+537,Stralsund,Germany,54.3,13.08333333,Stralsund,Q4065,NA,NA,protestant,588.3789276
+548,Dresden,Germany,51.04925833,13.73836111,Dresden,Q1731,1603,14793,protestant,592.2292257
+556,Malta,Austria,46.96666667,13.51666667,Malta,Q340115,NA,NA,protestant,1265.519803
+559,Szczecin,Poland,53.42472222,14.55527778,Szczecin,Q393,NA,6000,protestant,632.6530166
+579,Olomouc,Czech Republic,49.59388889,17.25083333,Olomouc,Q81137,NA,NA,protestant,762.559458
+646,Stockholm,Sweden,59.32944444,18.06861111,Stockholm,Q1754,1663,40000,protestant,906.9181255
+60,Pembroke,United Kingdom,51.67603889,-4.9158,Pembroke,Q1762242,NA,NA,protestant,222.3554193
+70,Great Torrington,United Kingdom,50.953,-4.141,Great Torrington,Q1242349,NA,NA,protestant,186.3231626
+77,Conwy,United Kingdom,53.28,-3.83,Conwy,Q634054,NA,NA,protestant,228.0168989
+92,Flint,United Kingdom,53.244,-3.132,Flint,Q1428848,NA,NA,protestant,205.196965
+93,Taunton,United Kingdom,51.01916667,-3.1,Taunton,Q845619,NA,NA,protestant,141.1788107
+97,Carlisle,United Kingdom,54.88333333,-2.95,Carlisle,Q192896,NA,NA,protestant,294.6020583
+107,Kendal,United Kingdom,54.326,-2.745,Kendal,Q994575,NA,NA,protestant,256.108852
+111,Ludlow,United Kingdom,52.36666667,-2.716666667,Ludlow,Q839811,NA,NA,protestant,152.2614752
+119,Guernsey,Guernsey,49.45583306,-2.5775,Guernsey,Q3311985,NA,NA,protestant,163.2041246
+120,Hartford,NA,NA,NA,NA,NA,NA,NA,protestant,189.2093307
+122,Weymouth,NA,NA,NA,NA,NA,NA,NA,protestant,117.3134291
+125,Dorchester,United Kingdom,50.71083333,-2.439722222,Dorchester,Q503331,NA,NA,protestant,114.8528527
+127,Portland,United Kingdom,50.55574,-2.45968,Portland,Q29168518,NA,NA,protestant,117.6824821
+133,Gloucester,United Kingdom,51.86444444,-2.244444444,Gloucester,Q170497,NA,NA,protestant,116.8157769
+137,Worcester,United Kingdom,52.19111111,-2.222222222,Worcester,Q1646181,NA,8000,protestant,127.9284128
+139,Blanford,NA,NA,NA,NA,NA,NA,NA,protestant,100.7241952
+142,Jersey,Jersey,49.19,-2.11,Jersey,Q785,NA,NA,protestant,162.3722966
+144,Aberdeen,United Kingdom,57.15,-2.1,Aberdeen,Q36405,1643,8750,protestant,430.6573892
+156,Wilton,United Kingdom,51.08,-1.864,Wilton,Q1018668,NA,NA,protestant,86.88765617
+159,New Ross,Ireland,52.395611,-6.945076,New Ross,Q1016292,NA,NA,protestant,325.834738
+161,Marlborough,United Kingdom,51.417,-1.717,Marlborough,Q539528,NA,NA,protestant,84.44465995
+166,Warwick,United Kingdom,52.28,-1.59,Warwick,Q549761,NA,7000,protestant,112.3501386
+168,Durham,United Kingdom,54.78333333,-1.566666667,Durham,Q179815,NA,NA,protestant,266.8858653
+173,Andover,United Kingdom,51.2167,-1.4667,Andover,Q492805,NA,NA,protestant,70.54572038
+177,Lichfield,United Kingdom,52.6835,-1.82653,Lichfield,Q207371,NA,NA,protestant,65.63821662
+181,Winchester,United Kingdom,51.06333333,-1.308611111,Winchester,Q172157,NA,NA,protestant,62.92903085
+183,Isle of Wight,United Kingdom,50.66666667,-1.266666667,Isle of Wight,Q9679,NA,NA,protestant,67.75842952
+184,"Newport, Isle of Wight",NA,NA,NA,NA,NA,NA,NA,protestant,66.97984622
+185,Abingdon-on-Thames,United Kingdom,51.66694444,-1.282777778,Abingdon-on-Thames,Q321381,NA,NA,protestant,74.55439885
+191,Marston,NA,NA,NA,NA,NA,NA,NA,protestant,77.12819234
+192,Mansfield,United Kingdom,53.1435,-1.1963,Mansfield,Q841979,NA,NA,protestant,154.985289
+198,Wallingford,United Kingdom,51.599,-1.125,Wallingford,Q988100,NA,NA,protestant,66.01733537
+207,Northampton,United Kingdom,52.23333333,-0.9,Northampton,Q192240,NA,NA,protestant,92.47655183
+211,Belvoir,United Kingdom,52.8833,-0.783333,Belvoir,Q3637891,NA,NA,protestant,132.9153005
+224,Lincoln,United Kingdom,53.25,-0.55,Lincoln,Q180057,NA,NA,protestant,152.5840255
+241,Putney,United Kingdom,51.4649,-0.2211,Putney,Q2465220,NA,NA,protestant,31.80060009
+242,Barnet,NA,NA,NA,NA,NA,NA,NA,protestant,43.42909108
+245,Forest Hill,United Kingdom,51.4457,-0.053,Forest Hill,Q1626233,NA,NA,protestant,27.60320714
+247,Greenwich,United Kingdom,51.48,0,Greenwich,Q179385,NA,NA,protestant,NA
+265,Rochester,United Kingdom,51.40222222,0.489166667,Rochester,Q507517,NA,NA,protestant,28.07874198
+271,Rye,United Kingdom,50.95,0.733333333,Rye,Q1020800,NA,NA,protestant,27.49573589
+285,Harwich,United Kingdom,51.93527778,1.2625,Harwich,Q990616,NA,NA,protestant,78.5909779
+287,Dover,United Kingdom,51.1275,1.312222222,Dover,Q179224,NA,NA,protestant,52.01604047
+367,Brabant,Belgium,NA,NA,Brabant,Q3051218,NA,NA,protestant,196.73745
+457,Constance,Germany,47.66033,9.17582,Konstanz,Q3834,NA,NA,protestant,470.5441019
+596,Gulich,Germany,50.92149,6.36267,J�lich,Q16045,NA,NA,protestant,767.7867343
+600,Haverfordwest,United Kingdom,51.80111111,-4.969444444,Haverfordwest,Q990103,NA,NA,protestant,767.7867343
+618,Pendennis Castle,United Kingdom,50.1467,-5.0471,Pendennis Castle,Q2371954,NA,NA,protestant,767.7867343
+627,Raglan,United Kingdom,51.7649,-2.85,Raglan,Q744944,NA,NA,protestant,767.7867343
+637,Teignmouth,United Kingdom,50.5491,-3.4948,Teignmouth,Q531311,NA,NA,protestant,767.7867343

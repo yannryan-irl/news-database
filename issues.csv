@@ -1,0 +1,658 @@
+﻿issue_id,title_id,title_name,shortered title,number_actual,number_printed,start_date,end_date,start_page_number,bibliographical_details,notes
+1,1,The Moderate Intelligencer,ModInt,1,,2/27/1645 0:00:00,3/6/1645 00:00:00,1,Thomason / 45:E.271[15],
+2,1,The Moderate Intelligencer,,2,,3/6/1645 00:00:00,3/13/1645 0:00:00,9,Thomason / 45:E.273[7],
+3,1,The Moderate Intelligencer,,3,,3/13/1645 0:00:00,3/20/1645 0:00:00,17,,
+4,1,The Moderate Intelligencer,,4,,3/20/1645 0:00:00,3/27/1645 0:00:00,25,,
+5,1,The Moderate Intelligencer,,5,,3/27/1645 0:00:00,4/3/1645 00:00:00,33,,
+6,1,The Moderate Intelligencer,,6,,4/3/1645 00:00:00,4/10/1645 00:00:00,41,,1st issue with more organised foreign news
+7,1,The Moderate Intelligencer,,7,,4/10/1645 00:00:00,4/17/1645 0:00:00,0,,
+8,1,The Moderate Intelligencer,,8,,4/17/1645 0:00:00,4/24/1645 0:00:00,0,,Lack of news at beginning - almost straight into foreign news. P. 59 missing
+9,1,The Moderate Intelligencer,,9,,4/24/1645 0:00:00,5/1/1645 00:00:00,65,,Taken from EEBO as more readable. Two articles quoted verbatim (one Oath and the response)
+10,1,The Moderate Intelligencer,,10,,5/1/1645 00:00:00,5/8/1645 00:00:00,73,,
+11,1,The Moderate Intelligencer,,11,,5/8/1645 00:00:00,5/15/1645 0:00:00,81,,
+12,1,The Moderate Intelligencer,,12,,5/15/1645 0:00:00,5/22/1645 0:00:00,89,,
+13,1,The Moderate Intelligencer,,13,,5/22/1645 0:00:00,5/29/1645 0:00:00,97,,
+14,1,The Moderate Intelligencer,,14,,5/29/1645 0:00:00,6/5/1645 00:00:00,105,,More opinion than usual
+15,1,The Moderate Intelligencer,,15,,6/5/1645 00:00:00,6/12/1645 00:00:00,113,,
+16,1,The Moderate Intelligencer,,16,,6/12/1645 00:00:00,6/19/1645 0:00:00,121,,Loads of opinion - worthy a reread. Letter from Catholic in England to counterpart in Ireland
+17,1,The Moderate Intelligencer,,17,,6/19/1645 0:00:00,6/26/1645 0:00:00,129,,Saturday and Monday incorrectly dated
+18,1,The Moderate Intelligencer,,18,,6/26/1645 0:00:00,7/3/1645 00:00:00,137,,
+19,1,The Moderate Intelligencer,,19,,7/3/1645 00:00:00,7/10/1645 00:00:00,145,,Slowly starting to get more organised/consistent with paragraphs. NB - good information about source of news!
+20,1,The Moderate Intelligencer,,20,,7/10/1645 00:00:00,7/17/1645 0:00:00,153,,
+21,1,The Moderate Intelligencer,,21,,7/17/1645 0:00:00,7/24/1645 0:00:00,161,,
+22,1,The Moderate Intelligencer,,22,,7/24/1645 0:00:00,7/31/1645 0:00:00,169,,
+23,1,The Moderate Intelligencer,,23,,7/31/1645 0:00:00,8/7/1645 00:00:00,177,,Paging is wrong - 182 and 183 reversed
+24,1,The Moderate Intelligencer,,24,,8/7/1645 00:00:00,8/14/1645 0:00:00,185,,1st page difficult to read - date looks like Thursday 15th (or 13th) but I think it's actually 14th.
+25,1,The Moderate Intelligencer,,25,,8/14/1645 0:00:00,8/21/1645 0:00:00,193,,Rare Sunday news
+26,1,The Moderate Intelligencer,,26,,8/21/1645 0:00:00,8/28/1645 0:00:00,201,,No news on Tuesday
+27,1,The Moderate Intelligencer,,27,,8/28/1645 0:00:00,9/4/1645 00:00:00,209,,Nothing under Tuesday again
+28,1,The Moderate Intelligencer,,28,,9/4/1645 00:00:00,9/11/1645 00:00:00,217,,Continuing increased level of sophistication of foreign news
+29,1,The Moderate Intelligencer,,29,,9/11/1645 00:00:00,9/18/1645 0:00:00,225,,Information on couriers from Paris
+30,1,The Moderate Intelligencer,,30,,9/18/1645 0:00:00,9/25/1645 0:00:00,233,,
+31,1,The Moderate Intelligencer,,31,,9/25/1645 0:00:00,10/2/1645 00:00:00,241,,Says 141 instead of 241 on title page
+32,1,The Moderate Intelligencer,,32,,10/2/1645 00:00:00,10/9/1645 00:00:00,249,,1st page hard to read - again they've printed 149 instead of 249
+33,1,The Moderate Intelligencer,,33,,10/9/1645 00:00:00,10/16/1645 0:00:00,257,,Same numbering issue
+34,1,The Moderate Intelligencer,,34,,10/16/1645 0:00:00,10/23/1645 0:00:00,265,,Same numbering issue. Almost no foreign news - no explanation
+35,1,The Moderate Intelligencer,,35,,10/23/1645 0:00:00,10/30/1645 0:00:00,0,,"2nd page ""but to come to news of war"
+36,1,The Moderate Intelligencer,,36,,10/30/1645 0:00:00,11/6/1645 00:00:00,281,,Numbering issue - will not mention unless it changes below.
+37,1,The Moderate Intelligencer,,37,,11/6/1645 00:00:00,11/13/1645 0:00:00,289,,
+38,1,The Moderate Intelligencer,,38,,11/13/1645 0:00:00,11/20/1645 0:00:00,297,,Almost no foreign news - one story from Paris. No explanation
+39,1,The Moderate Intelligencer,,39,38,11/20/1645 0:00:00,11/27/1645 0:00:00,305,,Some slight difference? Also repeated number 38. Typset
+40,1,The Moderate Intelligencer,,40,39,11/27/1645 0:00:00,12/4/1645 00:00:00,305,,Numbering error again - they've numbered the 1st page 205 for 2nd week in a row. Some foreign news that affects England
+41,1,The Moderate Intelligencer,,41,40,12/4/1645 00:00:00,12/11/1645 00:00:00,213,,Numbering by printed numbers from now on….
+42,1,The Moderate Intelligencer,,42,41,12/11/1645 00:00:00,12/18/1645 0:00:00,221,,
+43,1,The Moderate Intelligencer,,43,42,11/18/1645 0:00:00,12/25/1645 0:00:00,229,,Error in pagination. Nice example of value of foreign news
+44,1,The Moderate Intelligencer,,44,43,12/25/1645 0:00:00,1/1/1646 00:00:00,239,,
+45,1,The Moderate Intelligencer,,45,44,1/1/1646 00:00:00,1/8/1646 00:00:00,247,,
+46,1,The Moderate Intelligencer,,46,45,1/8/1646 00:00:00,1/15/1646 0:00:00,255,,Example of foreign news commenting on something at home - soldier's pay
+47,1,The Moderate Intelligencer,,47,46,1/15/1646 0:00:00,1/22/1646 0:00:00,263,,
+48,1,The Moderate Intelligencer,,48,47,1/22/1646 0:00:00,1/29/1646 0:00:00,271,,
+49,1,The Moderate Intelligencer,,49,48,1/29/1646 0:00:00,2/4/1646 00:00:00,279,,Taken from EEBO as missing in Burney collection
+50,1,The Moderate Intelligencer,,50,49,2/5/1646 00:00:00,2/12/1646 00:00:00,287,,Opinion piece about how rulers should be educated
+51,1,The Moderate Intelligencer,,51,50,2/12/1646 00:00:00,2/18/1646 0:00:00,295,,"Taken from EEBO as missing in Burney collection ""as if all were true that's printed"" nice quote in very last paragraph"
+52,1,The Moderate Intelligencer,,52,51,2/19/1646 0:00:00,2/26/1646 0:00:00,303,,New woodcut initial and slightly cleaner typeface - expanded to 12 pages
+53,1,The Moderate Intelligencer,,53,52,2/26/1646 0:00:00,3/5/1646 00:00:00,315,,
+54,1,The Moderate Intelligencer,,54,53,3/5/1646 00:00:00,3/12/1646 00:00:00,327,,"Last lines ""the burned child fears the fire"" cryptic message about censorship?"
+55,1,The Moderate Intelligencer,,55,54,3/12/1646 00:00:00,3/19/1646 0:00:00,339,,Opinion piece about why sticking to army proceedings
+56,1,The Moderate Intelligencer,,56,55,3/19/1646 0:00:00,3/26/1646 0:00:00,351,,Slightly difficult to read first page
+57,1,The Moderate Intelligencer,,57,56,3/26/1646 0:00:00,4/2/1646 00:00:00,363,,
+58,1,The Moderate Intelligencer,,58,57,4/2/1646 00:00:00,4/9/1646 00:00:00,375,,
+59,1,The Moderate Intelligencer,,59,58,4/9/1646 00:00:00,4/16/1646 0:00:00,387,,
+60,1,The Moderate Intelligencer,,60,59,4/16/1646 0:00:00,4/23/1646 0:00:00,395,,Mention of letters from Amsterdam and what news they contain
+61,1,The Moderate Intelligencer,,61,60,4/23/1646 0:00:00,4/30/1646 0:00:00,407,,
+62,1,The Moderate Intelligencer,,62,61,4/30/1646 0:00:00,5/7/1646 00:00:00,419,,
+63,1,The Moderate Intelligencer,,63,62,5/7/1646 00:00:00,5/14/1646 0:00:00,431,,
+64,1,The Moderate Intelligencer,,64,63,5/14/1646 0:00:00,5/21/1646 0:00:00,443,,
+65,1,The Moderate Intelligencer,,65,64,5/21/1646 0:00:00,5/28/1646 0:00:00,455,,
+66,1,The Moderate Intelligencer,,66,65,5/28/1646 0:00:00,6/4/1646 00:00:00,467,,Nice comparison in preface to foreign politics/religion. Shows importance of Europe?
+67,1,The Moderate Intelligencer,,67,66,6/4/1646 00:00:00,6/11/1646 00:00:00,479,,Hardly any foreign news
+68,1,The Moderate Intelligencer,,68,67,6/11/1646 00:00:00,6/18/1646 0:00:00,491,,
+69,1,The Moderate Intelligencer,,69,68,6/18/1646 0:00:00,6/25/1646 0:00:00,503,,
+70,1,The Moderate Intelligencer,,70,69,6/25/1646 0:00:00,7/2/1646 00:00:00,515,,Extra foreign news on last page
+71,1,The Moderate Intelligencer,,71,70,7/2/1646 00:00:00,7/9/1646 00:00:00,527,,Taken from EEBO as pages missing from Burney collection. Multiple sources of same story
+72,1,The Moderate Intelligencer,,72,71,7/9/1646 00:00:00,7/16/1646 0:00:00,539,,full paper starts on page 19 of 32 (extras in Burney collection)
+73,1,The Moderate Intelligencer,,73,72,7/16/1646 0:00:00,7/23/1646 0:00:00,551,,Opinion changing to foreign news based
+74,1,The Moderate Intelligencer,,74,73,7/23/1646 0:00:00,7/30/1646 0:00:00,563,,Story from China via East Indies in prologue
+75,1,The Moderate Intelligencer,,75,74,7/30/1646 0:00:00,8/6/1646 00:00:00,575,,
+76,1,The Moderate Intelligencer,,76,75,8/6/1646 00:00:00,8/13/1646 0:00:00,587,,Starting on page 14 Burney collection. Some dating issues - see individual posts
+77,1,The Moderate Intelligencer,,77,76,8/13/1646 0:00:00,8/20/1646 0:00:00,599,,
+78,1,The Moderate Intelligencer,,78,77,8/20/1646 0:00:00,8/27/1646 0:00:00,611,,Lacking much foreign news (or news in general) except one long report of siege of Mardike
+79,1,The Moderate Intelligencer,,79,78,8/27/1646 0:00:00,9/3/1646 00:00:00,623,,"Mentions role ""what we have done for the army"""
+80,1,The Moderate Intelligencer,,80,79,9/3/1646 00:00:00,9/9/1646 00:00:00,635,,Taken from EEBO as missing from Burney collection
+81,1,The Moderate Intelligencer,,81,80,9/10/1646 00:00:00,9/17/1646 0:00:00,0,,Announces end of editorials. Alternate news route. See #3111
+82,1,The Moderate Intelligencer,,82,81,9/17/1646 0:00:00,9/24/1646 0:00:00,652,,Series of letters about army mistreatment while biletted. Newsbook as judge/jury?
+83,1,The Moderate Intelligencer,,83,82,9/24/1646 0:00:00,10/1/1646 00:00:00,663,,
+84,1,The Moderate Intelligencer,,84,83,10/1/1646 00:00:00,10/8/1646 00:00:00,675,,No editorial. Story about healing fountain.
+85,1,The Moderate Intelligencer,,85,84,10/8/1646 00:00:00,10/15/1646 0:00:00,687,,Starting on p. 17 of Burney
+86,1,The Moderate Intelligencer,,86,85,10/15/1646 0:00:00,10/22/1646 0:00:00,699,,
+87,1,The Moderate Intelligencer,,87,86,10/22/1646 0:00:00,10/29/1646 0:00:00,711,,
+89,1,The Moderate Intelligencer,,88,87,10/29/1646 0:00:00,11/5/1646 00:00:00,723,,You have understood what passed already… speaking directly to the reader
+90,1,The Moderate Intelligencer,,89,88,11/5/1646 00:00:00,5/12/1646 00:00:00,735,,Great info in the letters from Venice. Some dating mistakes
+91,1,The Moderate Intelligencer,,90,89,11/12/1646 00:00:00,11/19/1646 0:00:00,747,,
+92,1,The Moderate Intelligencer,,91,90,11/19/1646 0:00:00,11/26/1646 0:00:00,759,,Corrected dates
+93,1,The Moderate Intelligencer,,92,91,11/26/1646 0:00:00,12/3/1646 00:00:00,771,,Some dates corrected. Complaint about difficulty of getting news from dublin
+94,1,The Moderate Intelligencer,,93,92,12/3/1646 00:00:00,12/10/1646 00:00:00,783,,
+95,1,The Moderate Intelligencer,,94,93,12/10/1646 00:00:00,12/17/1646 0:00:00,795,,Account of siege of Lerida
+96,1,The Moderate Intelligencer,,95,94,12/17/1646 0:00:00,12/24/1646 0:00:00,807,,Different editor? Language/spelling different. News direct from Candia to Paris. Also
+97,1,The Moderate Intelligencer,,96,95,12/24/1646 0:00:00,12/31/1646 0:00:00,819,,
+98,1,The Moderate Intelligencer,,97,96,12/31/1646 0:00:00,1/7/1647 00:00:00,831,,
+99,1,The Moderate Intelligencer,,98,97,1/7/1647 00:00:00,1/14/1647 0:00:00,843,,News from Dublin via Paris
+100,1,The Moderate Intelligencer,,99,98,1/14/1647 0:00:00,1/21/1647 0:00:00,855,,
+101,1,The Moderate Intelligencer,,100,99,1/21/1647 0:00:00,1/28/1647 0:00:00,867,,
+102,1,The Moderate Intelligencer,,101,100,1/28/1647 0:00:00,2/4/1647 00:00:00,879,,
+103,1,The Moderate Intelligencer,,102,101,2/4/1647 00:00:00,2/11/1647 00:00:00,901,,
+104,1,The Moderate Intelligencer,,103,102,2/11/1647 00:00:00,2/18/1647 0:00:00,913,,
+105,1,The Moderate Intelligencer,,104,103,2/18/1647 0:00:00,2/25/1647 0:00:00,925,,
+106,1,The Moderate Intelligencer,,105,103,2/25/1647 0:00:00,3/4/1647 00:00:00,937,,Two issues written as 103. Rare news direct from Constantinople
+107,1,The Moderate Intelligencer,,106,104,3/4/1647 00:00:00,3/11/1647 00:00:00,949,,Possibly two weeks worth of letters reported in some stories
+108,1,The Moderate Intelligencer,,107,105,3/11/1647 00:00:00,3/18/1647 0:00:00,961,,until it be confirmed by letters from Candia Last-minute news from the Hague about Prince of Orange death - only took 3/4 days to reach London
+109,1,The Moderate Intelligencer,,108,106,3/18/1647 0:00:00,3/25/1647 0:00:00,973,,Domestic news is starting to be written like foreign
+110,1,The Moderate Intelligencer,,109,107,3/25/1647 0:00:00,4/1/1647 00:00:00,985,,Good source info in Venice news
+111,1,The Moderate Intelligencer,,110,108,4/1/1647 00:00:00,4/8/1647 00:00:00,997,,Narrative/parable from Persia
+112,1,The Moderate Intelligencer,,111,109,4/8/1647 00:00:00,4/15/1647 0:00:00,1009,,
+113,1,The Moderate Intelligencer,,112,110,4/15/1647 0:00:00,4/22/1647 0:00:00,1021,,Good source info in Venice. No Dutch Post
+114,1,The Moderate Intelligencer,,113,111,4/22/1647 0:00:00,4/29/1647 0:00:00,1033,,
+115,1,The Moderate Intelligencer,,114,112,4/29/1647 0:00:00,5/6/1647 00:00:00,1045,,
+116,1,The Moderate Intelligencer,,115,113,5/6/1647 00:00:00,5/13/1647 0:00:00,1057,,1st story sort of feels like editorial/placing emphasis on story because of importance. Find out where 'Sally
+117,1,The Moderate Intelligencer,,116,114,5/13/1647 0:00:00,5/20/1647 0:00:00,1069,,The story of news is a story of motion
+118,1,The Moderate Intelligencer,,117,115,5/20/1647 0:00:00,5/27/1647 0:00:00,1081,,Taking of Armentiers from multiple sources
+119,1,The Moderate Intelligencer,,118,116,5/27/1647 0:00:00,6/3/1647 00:00:00,1093,,
+120,1,The Moderate Intelligencer,,119,117,6/3/1647 00:00:00,6/10/1647 00:00:00,1105,,
+121,1,The Moderate Intelligencer,,120,118,6/10/1647 00:00:00,6/17/1647 0:00:00,1117,,
+122,1,The Moderate Intelligencer,,121,119,6/17/1647 0:00:00,6/24/1647 0:00:00,1129,,
+123,1,The Moderate Intelligencer,,122,120,6/24/1647 0:00:00,7/1/1647 00:00:00,1141,,Corfu-Otranto-Venice
+124,1,The Moderate Intelligencer,,123,121,7/1/1647 00:00:00,7/8/1647 00:00:00,1153,,
+125,1,The Moderate Intelligencer,,124,122,7/8/1647 00:00:00,7/15/1647 0:00:00,1165,,
+126,1,The Moderate Intelligencer,,125,123,7/15/1647 0:00:00,7/22/1647 0:00:00,1177,,
+127,1,The Moderate Intelligencer,,126,124,7/22/1647 0:00:00,7/29/1647 0:00:00,1189,,Taken from EEBO as missing from Burney Collection. Poor quality version
+128,1,The Moderate Intelligencer,,127,125,8/5/1647 00:00:00,8/12/1647 00:00:00,1201,,No issue from 29th - 05 August
+129,1,The Moderate Intelligencer,,128,126,8/12/1647 00:00:00,8/19/1647 0:00:00,1213,,Paid messenger for news - value of news? Neapolitan insurrection - what effect will this have on the Network?
+130,1,The Moderate Intelligencer,,129,127,8/19/1647 0:00:00,8/26/1647 0:00:00,1225,,
+131,1,The Moderate Intelligencer,,130,128,8/26/1647 0:00:00,9/2/1647 00:00:00,1237,,
+132,1,The Moderate Intelligencer,,131,129,9/2/1647 00:00:00,9/9/1647 00:00:00,1249,,
+133,1,The Moderate Intelligencer,,132,130,9/9/1647 00:00:00,9/16/1647 0:00:00,1261,,
+134,1,The Moderate Intelligencer,,133,131,9/16/1647 0:00:00,9/23/1647 0:00:00,1273,,
+135,1,The Moderate Intelligencer,,134,132,9/23/1647 0:00:00,9/30/1647 0:00:00,1285,,News reported on ontroversial political topic - last paragraph
+136,1,The Moderate Intelligencer,,135,133,9/30/1647 0:00:00,10/7/1647 00:00:00,1297,,No page number on title page
+137,1,The Moderate Intelligencer,,136,134,10/7/1647 00:00:00,10/14/1647 0:00:00,1309,,"Printed as September and corrected in manuscript in original ""Imprimatur: G.M"" first Gilbert Mabbot issue?"
+138,1,The Moderate Intelligencer,,137,135,10/14/1647 0:00:00,10/22/1647 0:00:00,1321,,Koln - The Hague - Osnabruck
+139,1,The Moderate Intelligencer,,138,136,10/21/1647 0:00:00,10/28/1647 0:00:00,1333,,2 weeks of some foreign news (French post)
+140,1,The Moderate Intelligencer,,139,137,10/28/1647 0:00:00,11/4/1647 00:00:00,1345,,
+141,1,The Moderate Intelligencer,,140,138,11/4/1647 00:00:00,11/11/1647 00:00:00,1357,,
+142,1,The Moderate Intelligencer,,141,139,11/11/1647 00:00:00,11/18/1647 0:00:00,1369,,News from Naples sent from Gaetta - Naples gates are closed. News from Naples via Paris
+143,1,The Moderate Intelligencer,,142,140,11/18/1647 0:00:00,11/25/1647 0:00:00,1381,,Almost no foreign news very extended account of life of French general. Only 8 pages
+144,1,The Moderate Intelligencer,,143,141,11/25/1647 0:00:00,12/2/1647 00:00:00,1389,,
+145,1,The Moderate Intelligencer,,144,142,12/2/1647 00:00:00,12/9/1647 00:00:00,1041,,
+146,1,The Moderate Intelligencer,,145,143,12/9/1647 00:00:00,12/16/1647 0:00:00,1053,,Page number corrected to 1413? News from Naples via Rome/Genoa
+147,1,The Moderate Intelligencer,,146,144,12/16/1647 0:00:00,12/23/1647 0:00:00,1065,,
+148,1,The Moderate Intelligencer,,147,145,12/23/1647 0:00:00,12/30/1647 0:00:00,1077,,
+149,1,The Moderate Intelligencer,,148,146,12/30/1647 0:00:00,1/6/1648 00:00:00,1089,,
+150,1,The Moderate Intelligencer,,149,147,1/6/1648 00:00:00,1/13/1648 0:00:00,1101,,
+151,1,The Moderate Intelligencer,,150,148,1/13/1648 0:00:00,1/20/1648 0:00:00,1113,,
+152,1,The Moderate Intelligencer,,151,149,1/20/1648 0:00:00,1/27/1648 0:00:00,1125,,News from Naples via paris via specific person
+153,1,The Moderate Intelligencer,,152,150,1/27/1648 0:00:00,2/3/1648 00:00:00,1137,,
+154,1,The Moderate Intelligencer,,153,151,2/3/1648 00:00:00,2/10/1648 00:00:00,1149,,
+155,1,The Moderate Intelligencer,,154,152,2/10/1648 00:00:00,2/17/1648 0:00:00,1161,,Letter directly from Constantinople
+156,1,The Moderate Intelligencer,,155,153,2/17/1648 0:00:00,2/24/1648 0:00:00,1173,,
+157,1,The Moderate Intelligencer,,156,154,2/24/1648 0:00:00,3/2/1648 00:00:00,1185,,Letter from Leiden with news from Scotland
+158,1,The Moderate Intelligencer,,157,155,3/2/1648 00:00:00,3/9/1648 00:00:00,1197,,News travelling from Palermo to Ambassador of Spain
+159,1,The Moderate Intelligencer,,158,156,3/9/1648 00:00:00,3/16/1648 0:00:00,1209,,Missing from Burney Collection
+160,1,The Moderate Intelligencer,,159,157,3/16/1648 0:00:00,3/23/1648 0:00:00,1221,,News is travelling Naples-Ligorno-Marseille. From Spain via Marseilles
+161,1,The Moderate Intelligencer,,160,158,3/23/1648 0:00:00,3/30/1648 0:00:00,1233,,
+162,1,The Moderate Intelligencer,,161,159,3/30/1648 0:00:00,4/6/1648 00:00:00,1245,,
+163,1,The Moderate Intelligencer,,162,160,4/6/1648 00:00:00,4/13/1648 0:00:00,1257,,News from Tripoli
+164,1,The Moderate Intelligencer,,163,161,4/13/1648 0:00:00,4/20/1648 0:00:00,1269,,
+165,1,The Moderate Intelligencer,,164,162,4/20/1648 0:00:00,4/27/1648 0:00:00,1281,,
+166,1,The Moderate Intelligencer,,165,163,4/27/1648 0:00:00,5/4/1648 00:00:00,1293,,
+167,1,The Moderate Intelligencer,,166,164,5/4/1648 00:00:00,5/11/1648 00:00:00,1305,,
+168,1,The Moderate Intelligencer,,167,165,5/11/1648 00:00:00,5/18/1648 0:00:00,1317,,Taken from EEBO as higher quality copy
+169,1,The Moderate Intelligencer,,168,166,5/18/1648 0:00:00,5/25/1648 0:00:00,1349,,Slightly lower tone? Trivial story about a duel?
+170,1,The Moderate Intelligencer,,169,167,5/25/1648 0:00:00,6/1/1648 00:00:00,1361,,
+171,1,The Moderate Intelligencer,,170,168,6/1/1648 00:00:00,6/8/1648 00:00:00,1373,,Hamburg - movement
+172,1,The Moderate Intelligencer,,171,169,6/8/1648 00:00:00,6/15/1648 0:00:00,1385,,Letters Ireland-London
+173,1,The Moderate Intelligencer,,172,170,6/15/1648 0:00:00,6/22/1648 0:00:00,1397,,Offers itself into your view - neutral language
+174,1,The Moderate Intelligencer,,173,171,6/22/1648 0:00:00,6/29/1648 0:00:00,1409,,It's possible that you at London differences vs regions? How long news takes to get from Edinburgh compared to The Hague for example? First issue of the 'Moderate' this week. Only using Moderate Intelligencer. Taken from EEBO as some confusion of pages on Burney
+175,1,The Moderate Intelligencer,,174,172,6/29/1648 0:00:00,7/6/1648 00:00:00,1421,,Proscribed with notice of change of Printer
+176,1,The Moderate Intelligencer,,175,173,7/6/1648 00:00:00,7/13/1648 0:00:00,1433,,Two reports from Naples again. News from Naples via Rome as well. The Hague as entrepot for news. News Athlone via Dublin
+177,1,The Moderate Intelligencer,,176,174,7/13/1648 0:00:00,7/20/1648 0:00:00,1445,,
+178,1,The Moderate Intelligencer,,177,175,7/20/1648 0:00:00,7/27/1648 0:00:00,1457,,
+179,1,The Moderate Intelligencer,,178,176,7/27/1648 0:00:00,8/3/1648 00:00:00,1469,,
+180,1,The Moderate Intelligencer,,179,177,8/3/1648 00:00:00,8/10/1648 00:00:00,1473,,Starts with short opinion. Day of humiliation for weather? Almost no foreign news
+181,1,The Moderate Intelligencer,,180,178,8/10/1648 00:00:00,8/17/1648 0:00:00,1485,,Change of news format
+182,1,The Moderate Intelligencer,,181,179,8/17/1648 0:00:00,8/24/1648 0:00:00,1493,,Critical of current politician. Comparisons to Spain. Some pages at end taken from EEBO as missing in Burney. Intercepted letter from Prince printed verbatim
+183,1,The Moderate Intelligencer,,182,180,8/24/1648 0:00:00,8/31/1648 0:00:00,1505,,
+184,1,The Moderate Intelligencer,,183,181,8/31/1648 0:00:00,9/7/1648 00:00:00,1517,,"First paragraph ""understanding"
+185,1,The Moderate Intelligencer,,184,182,9/7/1648 00:00:00,9/14/1648 0:00:00,1529,,Description of Academy - is this an advertisement
+186,1,The Moderate Intelligencer,,185,183,9/14/1648 0:00:00,9/21/1648 0:00:00,1541,,
+187,1,The Moderate Intelligencer,,186,184,9/21/1648 0:00:00,9/28/1648 0:00:00,1553,,
+188,1,The Moderate Intelligencer,,187,185,9/28/1648 0:00:00,10/5/1648 00:00:00,1565,,Adverts for books. News from inside and outside Cremona
+189,1,The Moderate Intelligencer,,188,186,10/5/1648 00:00:00,10/12/1648 00:00:00,1577,,Incorrectly numbered
+190,1,The Moderate Intelligencer,,189,187,10/12/1648 00:00:00,10/19/1648 0:00:00,1589,,Should read 1589
+191,1,The Moderate Intelligencer,,190,188,10/19/1648 0:00:00,10/26/1648 0:00:00,1703,,News from Dadanelles - Venice just over 1 month. Not sure what's going on with numbers… Lisbon - Elvas - 10 days. Double Naples news. Venice news good connections. Lots of two week news
+192,1,The Moderate Intelligencer,,191,189,10/26/1648 0:00:00,11/2/1648 00:00:00,1715,,Taken from EEBO
+193,1,The Moderate Intelligencer,,192,190,11/2/1648 00:00:00,11/9/1648 00:00:00,1727,,Taken from EEBO
+194,1,The Moderate Intelligencer,,193,191,11/9/1648 00:00:00,11/16/1648 0:00:00,1739,,Taken from EEBO. Rome news - issue of author identity - hasn't come up before?
+195,1,The Moderate Intelligencer,,194,192,11/16/1648 0:00:00,11/23/1648 0:00:00,1741,,Taken from EEBO. Upside down e on 2nd page :D Genoa news
+196,1,The Moderate Intelligencer,,195,193,11/23/1648 0:00:00,11/30/1648 0:00:00,1753,,Taken from EEBO. News from Corsica to Rome via Fermo (maybe not?) News from Virginia in America
+197,1,The Moderate Intelligencer,,196,194,11/30/1648 0:00:00,12/7/1648 00:00:00,1765,,Taken from EEBO. News from Constantinople by way of Vienna. Pride's purge - how will this affect?
+198,1,The Moderate Intelligencer,,197,195,12/7/1648 00:00:00,12/14/1648 0:00:00,1777,,Taken from EEBO. News from Naples seems rabble-rousing? Early decentralisation
+199,1,The Moderate Intelligencer,,197,196,12/14/1648 0:00:00,12/21/1648 0:00:00,1789,,Taken from EEBO. News from Smyrna 11 October. All EEBO from here down.
+200,1,The Moderate Intelligencer,,199,197,12/21/1648 0:00:00,12/28/1648 0:00:00,1801,,The transactions in England are not unknown to this Emperor - Moscow
+201,1,The Moderate Intelligencer,,200,198,,,0,,Issue 198 missing from EEBO and cannot access burney
+202,1,The Moderate Intelligencer,,201,199,1/4/1649 00:00:00,1/11/1649 00:00:00,1825,,Very long description of Queen of Sweden. News from Polonia via Stockholm for a change. Genoa news
+203,1,The Moderate Intelligencer,,202,200,1/11/1649 00:00:00,1/18/1649 0:00:00,1837,,Comparison to other countrie's Kings. No French post (which usually arrives Monday) Comparison to Europe on last page too.
+204,1,The Moderate Intelligencer,,203,201,1/18/1649 0:00:00,1/25/1649 0:00:00,1849,,
+205,1,The Moderate Intelligencer,,204,202,1/25/1649 0:00:00,2/1/1649 00:00:00,0,,"News Amsterdam-Paris Amsterdam-Madrid (takes almost a month) ""Dr Burgess' notes not ready yet"" (Cornelius Borges?)"
+206,1,The Moderate Intelligencer,,205,203,2/1/1649 00:00:00,2/8/1649 00:00:00,1873,,Problems with French post starting previous week.Take a look at re-routing of network? Afraid of publishing some of king's scaffold speech - censorship?
+207,1,The Moderate Intelligencer,,206,204,2/8/1649 00:00:00,2/15/1649 0:00:00,1885,,More good paris rerouting
+208,1,The Moderate Intelligencer,,207,205,2/15/1649 0:00:00,2/22/1649 0:00:00,1897,,News Brussels - Paris - Rome - Naples.
+209,1,The Moderate Intelligencer,,208,206,2/22/1649 0:00:00,3/1/1649 00:00:00,1909,,Hardly any foreign news
+210,1,The Moderate Intelligencer,,209,207,3/1/1649 00:00:00,3/8/1649 00:00:00,1921,,News layout is so 'flexible' Space for news to Paris.
+211,1,The Moderate Intelligencer,,210,208,3/8/1649 00:00:00,3/15/1649 0:00:00,1933,,News of King's execution reaches Cassell
+212,1,The Moderate Intelligencer,,211,209,3/15/1649 0:00:00,3/22/1649 0:00:00,1945,,News from Dublin disrupted as Packet boat taken
+213,1,The Moderate Intelligencer,,212,210,3/22/1649 0:00:00,3/29/1649 0:00:00,1957,,Rouen important entrepot in news about Frondes. News from Royal exchange on days when Parliament doesn't sit.
+214,1,The Moderate Intelligencer,,213,211,3/29/1649 0:00:00,4/5/1649 00:00:00,1965,,
+215,1,The Moderate Intelligencer,,214,212,4/5/1649 00:00:00,4/12/1649 00:00:00,1977,,Travel time Toulon - paris
+216,1,The Moderate Intelligencer,,215,213,4/12/1649 00:00:00,4/18/1649 0:00:00,1989,,No opinion - why? Imprimatur Theo Jennings
+217,1,The Moderate Intelligencer,,216,214,4/19/1649 0:00:00,4/26/1649 0:00:00,2001,,Unsual sensational story about a stork. Letters stolen
+218,1,The Moderate Intelligencer,,217,215,4/26/1649 0:00:00,5/2/1649 00:00:00,2013,,Very little foreign news
+219,1,The Moderate Intelligencer,,218,216,5/3/1649 00:00:00,5/10/1649 00:00:00,2025,,2 week's foreign news for most. Lots of irish news
+220,1,The Moderate Intelligencer,,219,217,5/10/1649 00:00:00,5/17/1649 0:00:00,2037,,Contradictory news about Ypres from two different places printed
+221,1,The Moderate Intelligencer,,220,218,5/17/1649 0:00:00,5/24/1649 0:00:00,2049,,News about Cossack rebellion from Venice - Ragusa. News from Cliffa - Venice. 20 days. News Carrigfergus - Berwick
+222,1,The Moderate Intelligencer,,221,219,5/24/1649 0:00:00,5/31/1649 0:00:00,2061,,"There's an imposter called ""a moderate intelligence"". First real advert"
+223,1,The Moderate Intelligencer,,222,220,5/31/1649 0:00:00,6/7/1649 00:00:00,2073,,News from Ireland is so unreliable - see this and last issues
+224,1,The Moderate Intelligencer,,223,221,6/7/1649 00:00:00,6/14/1649 0:00:00,2085,,Comparison/anecdote about Turkey
+225,1,The Moderate Intelligencer,,224,222,6/14/1649 0:00:00,6/21/1649 0:00:00,2097,,Those that come accidental out of Ireland News from Chester last page. Recognition of formal/informal split in news?
+226,1,The Moderate Intelligencer,,225,223,6/21/1649 0:00:00,6/28/1649 0:00:00,2109,,NB: News about Vienna
+227,1,The Moderate Intelligencer,,226,224,6/28/1649 0:00:00,7/5/1649 00:00:00,2121,,News from Spain
+228,1,The Moderate Intelligencer,,227,225,7/5/1649 00:00:00,7/12/1649 00:00:00,2143,,Numbering off? Letters from Candia - Venice dated 16 May. Can probably work out date of Venice news.
+229,1,The Moderate Intelligencer,,228,226,7/12/1649 00:00:00,7/19/1649 0:00:00,2155,,
+230,1,The Moderate Intelligencer,,229,227,7/19/1649 0:00:00,7/26/1649 0:00:00,2167,,News Koln -Stettin - Warsaw. Also travel times included.
+231,1,The Moderate Intelligencer,,230,228,7/26/1649 0:00:00,8/2/1649 00:00:00,2179,,
+232,1,The Moderate Intelligencer,,231,229,8/2/1649 00:00:00,8/9/1649 00:00:00,2191,,English merchant's story? Hamburg. News from Ulster via Berwick
+233,1,The Moderate Intelligencer,,232,230,8/9/1649 00:00:00,8/16/1649 0:00:00,2203,,
+234,1,The Moderate Intelligencer,,233,231,8/16/1649 0:00:00,8/23/1649 0:00:00,2215,,Downside/worries of connections - plague in Marseilles from ship from Levant. News from Hamburg - comparing cossacks to Ireland?
+235,1,The Moderate Intelligencer,,234,232,8/23/1649 0:00:00,8/30/1649 0:00:00,2227,,News
+236,1,The Moderate Intelligencer,,235,233,8/30/1649 0:00:00,9/6/1649 00:00:00,2239,,Lost and found. News from Ireland via Saint German
+237,1,The Moderate Intelligencer,,236,234,9/6/1649 00:00:00,9/13/1649 0:00:00,2251,,
+238,1,The Moderate Intelligencer,,237,235,9/13/1649 0:00:00,9/20/1649 0:00:00,2263,,
+239,1,The Moderate Intelligencer,,238,236,9/20/1649 0:00:00,9/27/1649 0:00:00,2275,,End of issue
+240,1,The Moderate Intelligencer,,239,237,9/27/1649 0:00:00,10/4/1649 00:00:00,2287,,"Last Issue. ""And so we may not continue to be a company still of home spun spirits"""
+241,3,Mercurius Pragmaticus,,16,16,12/28/1648 0:00:00,4/1/1649 00:00:00,0,,
+242,4,The Kingdomes Weekly Intelligencer,,241,241,12/28/1648 0:00:00,4/1/1649 00:00:00,785,,
+243,5,The Perfect Weekly Account,,,1,12/28/1648 0:00:00,5/1/1649 00:00:00,0,,
+244,6,A Perfect Diurnall,,286,286,12/25/1648 0:00:00,1/1/1649 00:00:00,2273,,
+245,7,Mercurius Elencticus,,58,58,12/26/1648 0:00:00,2/1/1649 00:00:00,0,,
+246,8,Mercurius Melancholicus,,2,2,1/1/1649 00:00:00,8/1/1649 00:00:00,0,,
+247,9,A Briefe Relation,,17,17,1/1/1649 00:00:00,8/1/1649 00:00:00,205,,
+248,4,The Kingdomes Weekly Intelligencer,,293,293,2/1/1649 00:00:00,9/1/1649 00:00:00,1209,,
+249,10,The Moderate,,26,26,2/1/1649 00:00:00,9/1/1649 00:00:00,237,,
+250,7,Mercurius Elencticus,,59,59,2/1/1649 00:00:00,9/1/1649 00:00:00,557,,
+251,5,The Perfect Weekly Account,,0,0,3/1/1649 00:00:00,10/1/1648 00:00:00,341,,
+252,11,Perfect Occurences,,106,106,5/1/1649 00:00:00,12/1/1649 00:00:00,787,,
+253,8,Mercurius Melancholicus,,3,3,5/1/1649 00:00:00,12/1/1649 00:00:00,,,Content identical to No. 2
+254,6,A Perfect Diurnall,,287,287,8/1/1649 00:00:00,1/15/1649 0:00:00,2289,,
+255,9,A Briefe Relation,,18,18,8/1/1649 00:00:00,1/15/1649 0:00:00,221,,
+256,10,The Moderate,,27,27,9/1/1649 00:00:00,1/16/1649 0:00:00,249,,
+257,4,The Kingdomes Weekly Intelligencer,,294,294,9/1/1649 00:00:00,1/16/1649 0:00:00,1217,,
+258,3,Mercurius Pragmaticus,,41,41,9/1/1649 00:00:00,9/1/1649 00:00:00,0,,No news
+259,5,The Perfect Weekly Account,,0,0,10/1/1649 00:00:00,10/1/1649 00:00:00,349,,
+260,11,Perfect Occurences,,107,107,12/1/1649 00:00:00,1/19/1649 0:00:00,797,,
+261,6,A Perfect Diurnall,,288,288,1/15/1649 0:00:00,1/22/1649 0:00:00,2297,,
+262,9,A Briefe Relation,,19,19,1/15/1649 0:00:00,1/22/1649 0:00:00,237,,
+263,4,The Kingdomes Weekly Intelligencer,,295,295,1/16/1649 0:00:00,1/23/1649 0:00:00,1225,,
+264,10,The Moderate,,28,28,1/16/1649 0:00:00,1/23/1649 0:00:00,261,,
+265,3,Mercurius Pragmaticus,,42,42,1/16/1649 0:00:00,1/30/1649 0:00:00,0,,
+266,5,The Perfect Weekly Account,,0,0,1/17/1649 0:00:00,1/24/1649 0:00:00,357,,
+267,11,Perfect Occurences,,108,108,1/18/1649 0:00:00,1/25/1649 0:00:00,803,,
+268,6,A Perfect Diurnall,,287,287,1/22/1649 0:00:00,1/29/1649 0:00:00,2305,,
+269,9,A Briefe Relation,,20,20,1/22/1649 0:00:00,1/29/1649 0:00:00,249,,
+270,10,The Moderate,,29,29,1/23/1649 0:00:00,1/30/1649 0:00:00,273,,
+271,4,The Kingdomes Weekly Intelligencer,,296,296,1/23/1649 0:00:00,1/30/1649 0:00:00,1233,,
+272,5,The Perfect Weekly Account,,0,0,1/24/1649 0:00:00,1/31/1649 0:00:00,365,,
+273,13,The Irish Mercury,,0,0,1/25/1649 0:00:00,2/25/1649 0:00:00,1,,
+274,11,Perfect Occurences,,109,109,1/26/1649 0:00:00,2/2/1649 00:00:00,813,,
+275,12,A Perfect Summary,,2,2,1/29/1649 0:00:00,5/2/1649 00:00:00,9,,Much reprinted from 274
+276,6,A Perfect Diurnall,,288,288,1/29/1649 0:00:00,5/2/1649 00:00:00,2303,,
+277,9,A Briefe Relation,,22,22,1/29/1649 0:00:00,5/2/1649 00:00:00,281,,
+278,10,The Moderate,,30,30,1/30/1649 0:00:00,6/2/1649 00:00:00,285,,
+279,4,The Kingdomes Weekly Intelligencer,,297,297,1/30/1649 0:00:00,6/2/1649 00:00:00,1248,,
+280,5,The Perfect Weekly Account,,,0,1/31/1649 0:00:00,7/2/1649 00:00:00,373,,
+281,11,Perfect Occurences,,110,110,2/2/1649 00:00:00,9/2/1649 00:00:00,821,,
+282,6,A Perfect Diurnall,,289,289,5/2/1649 00:00:00,12/2/1649 00:00:00,2321,,the tall cedar referring to King Charles
+283,12,A Perfect Summary,,3,3,5/2/1649 00:00:00,12/2/1649 00:00:00,17,,
+284,9,A Briefe Relation,,23,23,5/2/1649 00:00:00,7/2/1649 00:00:00,297,,
+285,9,A Briefe Relation,,24,24,5/2/1649 00:00:00,12/2/1649 00:00:00,205,,
+286,10,The Moderate,,31,31,6/2/1649 00:00:00,2/13/1649 0:00:00,297,,
+287,7,Mercurius Elencticus,,56,56,6/2/1649 00:00:00,2/13/1649 0:00:00,0,,
+288,4,The Kingdomes Weekly Intelligencer,,298,298,6/2/1649 00:00:00,2/13/1649 0:00:00,1249,,
+289,5,The Perfect Weekly Account,,0,0,7/2/1649 00:00:00,2/14/1649 0:00:00,381,,
+290,11,Perfect Occurences,,111,111,9/2/1649 00:00:00,2/16/1649 0:00:00,833,,
+291,6,A Perfect Diurnall,,290,290,12/2/1649 00:00:00,2/19/1649 0:00:00,2329,,
+292,12,A Perfect Summary,,4,4,12/2/1649 00:00:00,2/19/1649 0:00:00,25,,
+293,9,A Briefe Relation,,26,26,12/2/1649 00:00:00,2/19/1649 0:00:00,337,,Full text of letter from Charles II to Montrose
+294,9,A Briefe Relation,,25,25,12/2/1649 00:00:00,2/15/1649 0:00:00,321,,Illustration of a comet. Should have switched around these two numbers - this is the order on EEBO but they should be the other way around.
+295,10,The Moderate,,32,32,2/13/1649 0:00:00,2/20/1649 0:00:00,309,,
+296,4,The Kingdomes Weekly Intelligencer,,299,299,2/13/1649 0:00:00,2/20/1649 0:00:00,1257,,
+297,3,Mercurius Pragmaticus,,45,45,2/13/1649 0:00:00,2/20/1649 0:00:00,0,,
+298,11,Perfect Occurences,,112,112,2/16/1649 0:00:00,2/16/1649 0:00:00,845,,
+299,6,A Perfect Diurnall,,291,291,2/19/1649 0:00:00,2/26/1649 0:00:00,2337,,
+300,12,A Perfect Summary,,5,5,2/19/1649 0:00:00,2/26/1649 0:00:00,25,,
+301,9,A Briefe Relation,,27,27,2/19/1649 0:00:00,2/26/1649 0:00:00,353,,Some good notes
+302,10,The Moderate,,33,33,2/20/1649 0:00:00,2/27/1649 0:00:00,321,,
+303,3,Mercurius Pragmaticus,,43,43,2/20/1649 0:00:00,2/27/1649 0:00:00,0,,Talks about arrest. Dublin - Cork news
+304,3,Mercurius Pragmaticus,,46,46,2/20/1649 0:00:00,2/27/1649 0:00:00,0,,
+305,5,The Perfect Weekly Account,,,,2/21/1649 0:00:00,2/28/1649 0:00:00,997,,
+306,14,The Kingdoms Faithfull Scout,,5,5,2/23/1649 0:00:00,2/3/1649 00:00:00,0,,A post sent to the scots to try and overtake them. News from Bristol - Navy - Ireland
+307,11,Perfect Occurences,,113,113,2/23/1649 0:00:00,2/23/1649 0:00:00,857,,First crime story? Stolen watch
+308,6,A Perfect Diurnall,,292,292,2/26/1649 0:00:00,5/3/1649 00:00:00,2337,,Order for new packet boat for Dublin to replace that taken
+309,12,A Perfect Summary,,6,6,2/26/1649 0:00:00,5/3/1649 00:00:00,49,,
+310,9,A Briefe Relation,,28,28,2/26/1649 0:00:00,5/3/1649 00:00:00,369,,
+311,3,Mercurius Pragmaticus,,44,44,2/27/1649 0:00:00,5/3/1649 00:00:00,0,,
+312,4,The Kingdomes Weekly Intelligencer,,301,301,2/27/1649 0:00:00,6/3/1649 00:00:00,1273,,
+313,10,The Moderate,,34,34,2/27/1649 0:00:00,6/3/1649 00:00:00,333,,
+314,5,The Perfect Weekly Account,,10,10,2/28/1649 0:00:00,7/3/1649 00:00:00,405,,Not sure about issue number. Comparison to Turkish Slaves
+315,15,The Impartiall Intelligencer,,1,1,2/28/1649 0:00:00,7/3/1649 00:00:00,1,,
+316,15,The Impartiall Intelligencer,,2,2,3/7/1649 00:00:00,3/14/1649 0:00:00,9,,Sources - french ambassador receiving letters confirming.
+317,11,Perfect Occurences,,114,114,3/2/1649 00:00:00,3/9/1649 00:00:00,881,,A bit gossipy? Trivial. Sources - Lord Digby to 'Lady in London'
+318,14,The Kingdoms Faithfull Scout,,6,6,3/2/1649 00:00:00,9/3/1649 00:00:00,41,,
+319,6,A Perfect Diurnall,,293,293,3/5/1649 00:00:00,3/12/1649 00:00:00,2355,,
+320,12,A Perfect Summary,,7,7,3/5/1649 00:00:00,3/12/1649 00:00:00,41,,Colonel Wanton reports from the Councell of State - rare source acknowledgement. 'Mr. Walter Strickland' at the Hague? Who ishe?
+321,9,A Briefe Relation,,28,28,3/5/1649 00:00:00,3/12/1649 00:00:00,385,,Letter from Ireland - in newsbook dedicated to foreign news
+322,3,Mercurius Pragmaticus,,45,45,3/6/1649 00:00:00,3/6/1649 00:00:00,0,,
+323,4,The Kingdomes Weekly Intelligencer,,302,302,3/6/1649 00:00:00,3/13/1649 0:00:00,1285,,this day made it selfe famous
+324,10,The Moderate,,35,35,3/6/1649 00:00:00,3/13/1649 0:00:00,349,,News from Munich and Hamburg on the same day. Says something about the route. Moderate and MI and definitely using the same ssources
+325,5,The Perfect Weekly Account,,11,11,3/7/1649 00:00:00,3/14/1649 0:00:00,413,,Getting a sense of history?
+326,11,Perfect Occurences,,115,115,3/9/1649 00:00:00,3/16/1649 0:00:00,889,,
+327,14,The Kingdoms Faithfull Scout,,7,7,3/9/1649 00:00:00,3/16/1649 0:00:00,49,,NB - interesting info
+328,12,A Perfect Summary,,8,8,3/12/1649 00:00:00,3/19/1649 0:00:00,45,,
+329,6,A Perfect Diurnall,,294,294,3/12/1649 00:00:00,3/19/1649 0:00:00,2363,,
+330,9,A Briefe Relation,,30,30,3/12/1649 00:00:00,3/19/1649 0:00:00,401,,
+331,10,The Moderate,,36,36,3/13/1649 0:00:00,3/20/1649 0:00:00,361,,
+332,3,Mercurius Pragmaticus,,46,46,3/13/1649 0:00:00,3/20/1649 0:00:00,0,,
+333,4,The Kingdomes Weekly Intelligencer,,303,303,3/13/1649 0:00:00,3/20/1649 0:00:00,1289,,
+334,5,The Perfect Weekly Account,,12,12,3/14/1649 0:00:00,3/21/1649 0:00:00,421,,NB - printing declaration against kings in 4 languages
+335,15,The Impartiall Intelligencer,,3,3,3/14/1649 0:00:00,3/21/1649 0:00:00,17,,NB source of news in Scotland
+336,11,Perfect Occurences,,116,116,3/16/1649 0:00:00,3/23/1649 0:00:00,905,,NB foreign anxieties - surpressing printing the Koran
+337,14,The Kingdoms Faithfull Scout,,8,8,3/16/1649 0:00:00,3/23/1649 0:00:00,57,,
+338,6,A Perfect Diurnall,,295,295,3/19/1649 0:00:00,3/26/1649 0:00:00,2371,,Actually extensive foreign news
+339,12,A Perfect Summary,,9,9,3/20/1649 0:00:00,3/20/1649 0:00:00,93,,Some identical reporting to one above
+340,4,The Kingdomes Weekly Intelligencer,,304,304,3/20/1649 0:00:00,3/27/1649 0:00:00,1297,,
+341,10,The Moderate,,37,37,3/20/1649 0:00:00,3/27/1649 0:00:00,373,,
+342,3,Mercurius Pragmaticus,,47,47,3/20/1649 0:00:00,3/27/1649 0:00:00,0,,NB paragraph 5
+343,5,The Perfect Weekly Account,,13,13,3/21/1649 0:00:00,3/28/1649 0:00:00,428,,NB timings
+344,15,The Impartiall Intelligencer,,4,4,3/21/1649 0:00:00,3/28/1649 0:00:00,23,,
+345,11,Perfect Occurences,,117,117,3/23/1649 0:00:00,3/30/1649 0:00:00,117,,NB postal info
+346,14,The Kingdoms Faithfull Scout,,9,9,3/23/1649 0:00:00,3/30/1649 0:00:00,65,,
+347,10,The Moderate,,38,38,3/27/1649 0:00:00,4/3/1649 00:00:00,385,,Opinion piece of law
+348,3,Mercurius Pragmaticus,,48,48,3/27/1649 0:00:00,4/3/1649 00:00:00,0,,
+349,15,The Impartiall Intelligencer,,5,5,3/28/1649 0:00:00,4/4/1649 00:00:00,33,,
+350,5,The Perfect Weekly Account,,14,14,3/28/1649 0:00:00,4/2/1649 00:00:00,429,,
+351,11,Perfect Occurences,,118,118,3/30/1649 0:00:00,4/6/1649 00:00:00,921,,
+352,14,The Kingdoms Faithfull Scout,,10,10,3/30/1649 0:00:00,4/6/1649 00:00:00,73,,
+353,4,The Kingdomes Weekly Intelligencer,,305,305,3/27/1649 0:00:00,4/3/1649 00:00:00,1305,,
+354,3,Mercurius Pragmaticus,,49,49,3/27/1649 0:00:00,4/3/1649 00:00:00,,,NB paragraph 10325
+355,6,A Perfect Diurnall,,297,297,4/2/1649 00:00:00,4/9/1649 00:00:00,2403,,News from Hamburg and The Hague on same date? What's going on here?
+356,10,The Moderate,,39,39,4/3/1649 00:00:00,4/10/1649 00:00:00,397,,Difficult to work out
+357,4,The Kingdomes Weekly Intelligencer,,306,306,4/3/1649 00:00:00,4/10/1649 00:00:00,1313,,
+358,7,Mercurius Elencticus,,1,1,4/4/1649 00:00:00,4/11/1649 00:00:00,0,,Not really divided into stories
+359,5,The Perfect Weekly Account,,15,15,4/4/1649 00:00:00,4/11/1649 00:00:00,437,,
+360,11,Perfect Occurences,,119,119,4/6/1649 00:00:00,4/13/1649 0:00:00,953,,Very good/detailed French news
+361,14,The Kingdoms Faithfull Scout,,11,11,4/6/1649 00:00:00,4/13/1649 0:00:00,81,,Same source as above
+362,16,A Modest Narrative,,1,1,,4/7/1649 00:00:00,1,,New title. Two in a row
+363,16,A Modest Narrative,,2,2,4/7/1649 00:00:00,4/14/1649 0:00:00,9,,
+364,12,A Perfect Summary,,11,11,4/9/1649 00:00:00,4/16/1649 0:00:00,109,,Compare printing of 'Dear Tom' letter to above. Confusion with dating. Wrong front page perhaps?
+365,17,Mercurius Philo-Monarchicus,,1,1,4/10/1649 00:00:00,4/17/1649 0:00:00,1,,
+366,10,The Moderate,,40,40,4/10/1649 00:00:00,4/17/1649 0:00:00,409,,No opinion this week. Venice news
+367,4,The Kingdomes Weekly Intelligencer,,307,307,4/10/1649 00:00:00,4/17/1649 0:00:00,1321,,
+368,3,Mercurius Pragmaticus,,50,50,4/10/1649 00:00:00,4/17/1649 0:00:00,0,,Apolgises for error
+369,18,Man in the Moon,,1,1,4/16/1649 0:00:00,,0,,Not numbered
+370,15,The Impartiall Intelligencer,,6,6,4/4/1649 00:00:00,4/11/1649 00:00:00,41,,Dates are wrong
+371,15,The Impartiall Intelligencer,,7,7,4/11/1649 00:00:00,4/18/1649 0:00:00,49,,Quite a lot of specifically French news.
+372,5,The Perfect Weekly Account,,16,16,4/11/1649 00:00:00,4/18/1649 0:00:00,445,,Some interesting stories last paragraph
+373,11,Perfect Occurences,,120,120,4/12/1649 00:00:00,4/19/1649 0:00:00,921,,
+374,19,Continued Heads of Perfect Passages,,1,1,4/13/1649 0:00:00,4/20/1649 0:00:00,1,,
+375,14,The Kingdoms Faithfull Scout,,12,12,4/13/1649 0:00:00,4/20/1649 0:00:00,89,,
+376,16,A Modest Narrative,,3,3,4/14/1649 0:00:00,4/21/1649 0:00:00,27,,
+377,6,A Perfect Diurnall,,298,298,4/16/1649 0:00:00,4/23/1649 0:00:00,2435,,
+378,12,A Perfect Summary,,13,13,4/16/1649 0:00:00,4/23/1649 0:00:00,125,,Example of the difference in news reporting? Both (title above) reporters in the House
+379,18,Man in the Moon,,2,2,4/16/1649 0:00:00,4/23/1649 0:00:00,9,,Price of paper
+380,4,Mercurius Pragmaticus,,51,0,4/17/1649 0:00:00,4/24/1649 0:00:00,0,,Extra issue. Counterfeit?
+381,10,The Moderate,,41,41,4/17/1649 0:00:00,4/24/1649 0:00:00,41,,
+382,15,The Impartiall Intelligencer,,8,8,4/18/1649 0:00:00,4/25/1649 0:00:00,57,,
+383,5,The Perfect Weekly Account,,0,17,4/18/1649 0:00:00,4/25/1649 0:00:00,453,,
+384,11,Perfect Occurences,,121,121,4/20/1649 0:00:00,4/27/1649 0:00:00,985,,Mention of when letters from Paris arrived
+385,14,The Kingdoms Faithfull Scout,,13,13,4/20/1649 0:00:00,4/27/1649 0:00:00,97,,
+386,19,Continued Heads of Perfect Passages,,2,2,4/20/1649 0:00:00,4/27/1649 0:00:00,9,,
+387,16,A Modest Narrative,,4,4,4/21/1649 0:00:00,4/28/1649 0:00:00,25,,Same stories but much less detail than previous titles
+388,12,A Perfect Summary,,14,14,4/23/1649 0:00:00,4/30/1649 0:00:00,133,,News from Brielle
+389,20,England's Moderate Messenger,,1,1,4/23/1649 0:00:00,4/30/1649 0:00:00,1,,First issue
+390,6,A Perfect Diurnall,,300,300,4/23/1649 0:00:00,4/30/1649 0:00:00,2415,,Holland - Edinburgh - Newcastle - London. No Venice news?
+391,4,Mercurius Pragmaticus,,52,0,4/23/1649 0:00:00,4/30/1649 0:00:00,0,,
+392,18,Man in the Moon,,3,3,4/23/1649 0:00:00,4/30/1649 0:00:00,17,,
+393,21,Mercurius Pragmaticus for Charles II,,2,2,4/24/1649 0:00:00,5/1/1649 00:00:00,9,,Not doing full database entry
+394,10,The Moderate,,42,42,4/24/1649 0:00:00,5/1/1649 00:00:00,473,,
+395,4,The Kingdomes Weekly Intelligencer,,309,309,4/24/1649 0:00:00,5/1/1649 00:00:00,1357,,Stork
+396,22,Mercurius Britannicus,,1,1,4/24/1649 0:00:00,5/1/1649 00:00:00,1,,Mostly just counter points to stories printed by Pragmaticus (for Charles II)
+397,15,The Impartiall Intelligencer,,9,9,4/25/1649 0:00:00,5/2/1649 00:00:00,65,,
+398,19,Continued Heads of Perfect Passages,,3,3,4/27/1649 0:00:00,5/4/1649 00:00:00,17,,
+399,14,The Kingdoms Faithfull Scout,,14,14,4/27/1649 0:00:00,5/4/1649 00:00:00,105,,
+400,11,Perfect Occurences,,122,122,4/27/1649 0:00:00,5/4/1649 00:00:00,1001,,
+401,16,A Modest Narrative,,5,5,4/28/1649 0:00:00,5/5/1649 00:00:00,33,,News from Drogheda
+402,12,A Perfect Summary,,15,15,4/30/1649 0:00:00,5/7/1649 00:00:00,139,,
+403,6,A Perfect Diurnall,,301,301,4/30/1649 0:00:00,5/7/1649 00:00:00,2467,,
+404,20,England's Moderate Messenger,,2,2,4/30/1649 0:00:00,5/7/1649 00:00:00,9,,
+405,23,Mercurius Elencticus for Charls II,,1,1,4/30/1649 0:00:00,5/7/1649 00:00:00,,,
+406,24,Mercurius Elencticus 2,,2,2,5/1/1649 00:00:00,5/8/1649 00:00:00,9,,
+407,21,Mercurius Pragmaticus for Charles II,,3,3,5/1/1649 00:00:00,5/8/1649 00:00:00,0,,
+408,4,The Kingdomes Weekly Intelligencer,,310,310,5/1/1649 00:00:00,5/8/1649 00:00:00,1345,,
+409,10,The Moderate,,43,43,5/1/1649 00:00:00,5/8/1649 00:00:00,0,,
+410,3,Mercurius Pragmaticus,,53,53,5/1/1649 00:00:00,5/8/1649 00:00:00,0,,
+411,22,Mercurius Britannicus,,2,2,5/1/1649 00:00:00,5/8/1649 00:00:00,9,,
+412,15,The Impartiall Intelligencer,,10,10,5/2/1649 00:00:00,5/9/1649 00:00:00,73,,
+413,5,The Perfect Weekly Account,,37,37,5/2/1649 00:00:00,5/9/1649 00:00:00,469,,
+414,11,Perfect Occurences,,123,123,5/4/1649 00:00:00,5/11/1649 00:00:00,1017,,
+415,14,The Kingdoms Faithfull Scout,,15,15,5/4/1649 00:00:00,5/11/1649 00:00:00,113,,
+416,12,A Perfect Summary,,16,16,5/4/1649 00:00:00,5/12/1649 00:00:00,139,,
+417,19,Continued Heads of Perfect Passages,,4,4,5/4/1649 00:00:00,5/11/1649 00:00:00,33,,
+418,16,A Modest Narrative,,6,6,5/5/1649 00:00:00,5/12/1649 00:00:00,41,,
+419,26,Mercurius Militaris,,3,5,5/6/1649 00:00:00,,25,,Not really news
+420,20,England's Moderate Messenger,,3,3,5/7/1649 00:00:00,5/14/1649 0:00:00,17,,
+421,6,A Perfect Diurnall,,302,302,5/7/1649 00:00:00,5/7/1649 00:00:00,2493,,
+422,23,Mercurius Elencticus for Charls II,,2,2,5/7/1649 00:00:00,5/14/1649 0:00:00,0,,
+423,24,Mercurius Elencticus 2,,3,3,5/7/1649 00:00:00,5/14/1649 0:00:00,17,,
+424,21,Mercurius Pragmaticus for Charles II,,4,4,5/8/1649 00:00:00,5/15/1649 0:00:00,0,,
+425,22,Mercurius Britannicus,,3,3,5/8/1649 00:00:00,5/15/1649 0:00:00,19,,
+426,10,The Moderate,,44,44,5/8/1649 00:00:00,5/15/1649 0:00:00,495,,
+427,4,The Kingdomes Weekly Intelligencer,,311,311,5/8/1649 00:00:00,5/15/1649 0:00:00,1353,,
+428,5,The Perfect Weekly Account,,38,0,5/9/1649 00:00:00,5/16/1649 0:00:00,477,,
+429,15,The Impartiall Intelligencer,,11,11,5/9/1649 00:00:00,5/16/1649 0:00:00,81,,
+430,19,Continued Heads of Perfect Passages,,5,5,5/11/1649 00:00:00,5/18/1649 0:00:00,33,,
+431,11,Perfect Occurences,,124,124,5/11/1649 00:00:00,5/18/1649 0:00:00,1033,,
+432,14,The Kingdoms Faithfull Scout,,16,16,5/11/1649 00:00:00,5/18/1649 0:00:00,121,,
+433,16,A Modest Narrative,,7,7,5/12/1649 00:00:00,5/19/1649 0:00:00,49,,
+434,12,A Perfect Summary,,17,17,5/14/1649 0:00:00,5/21/1649 0:00:00,147,,
+435,20,England's Moderate Messenger,,4,4,5/14/1649 0:00:00,5/21/1649 0:00:00,25,,
+436,6,A Perfect Diurnall,,303,303,5/14/1649 0:00:00,5/21/1649 0:00:00,2509,,
+437,18,Man in the Moon,,6,6,5/14/1649 0:00:00,5/21/1649 0:00:00,52,,Not really news
+438,17,Mercurius Philo-Monarchicus,,34,34,5/14/1649 0:00:00,5/21/1649 0:00:00,0,,Not really news
+439,24,Mercurius Elencticus 2,,4,4,5/14/1649 0:00:00,5/21/1649 0:00:00,25,,
+440,10,The Moderate,,45,45,5/15/1649 0:00:00,5/22/1649 0:00:00,507,,
+441,25,Mercurius Pragmaticus 2,,5,5,5/15/1649 0:00:00,5/22/1649 0:00:00,0,,Not separating paragraphs
+442,4,The Kingdomes Weekly Intelligencer,,312,312,5/15/1649 0:00:00,5/22/1649 0:00:00,1361,,
+443,22,Mercurius Britannicus,,4,4,5/15/1649 0:00:00,5/22/1649 0:00:00,25,,
+444,15,The Impartiall Intelligencer,,12,12,5/16/1649 0:00:00,5/23/1649 0:00:00,89,,
+445,5,The Perfect Weekly Account,,39,0,5/16/1649 0:00:00,5/23/1649 0:00:00,485,,
+446,27,A Moderate Intelligence,,1,1,5/17/1649 0:00:00,5/24/1649 0:00:00,1,,
+447,28,Mercurius Pacificus,,1,1,5/17/1649 0:00:00,5/24/1649 0:00:00,1,,
+448,14,The Kingdoms Faithfull Scout,,17,17,5/18/1649 0:00:00,5/25/1649 0:00:00,129,,
+449,11,Perfect Occurences,,125,125,5/18/1649 0:00:00,5/25/1649 0:00:00,1049,,
+450,16,A Modest Narrative,,8,8,5/19/1649 0:00:00,5/26/1649 0:00:00,57,,
+451,12,A Perfect Summary,,19,19,5/21/1649 0:00:00,5/28/1649 0:00:00,155,,
+452,6,A Perfect Diurnall,,304,304,5/21/1649 0:00:00,5/28/1649 0:00:00,2525,,
+453,24,Mercurius Elencticus 2,,5,5,5/21/1649 0:00:00,5/28/1649 0:00:00,33,,
+454,18,Man in the Moon,,7,7,5/21/1649 0:00:00,5/30/1649 0:00:00,59,,
+455,26,Mercurius Militaris,,1,1,5/22/1649 0:00:00,5/29/1649 0:00:00,0,,Not really news
+456,21,Mercurius Pragmaticus for Charles II,,6,6,5/22/1649 0:00:00,5/29/1649 0:00:00,0,,Not really news
+457,22,Mercurius Britannicus,,5,5,5/22/1649 0:00:00,5/29/1649 0:00:00,33,,
+458,4,The Kingdomes Weekly Intelligencer,,313,313,5/22/1649 0:00:00,5/29/1649 0:00:00,1369,,
+459,29,Mercurius Republicus,,1,1,5/22/1649 0:00:00,5/29/1649 0:00:00,1,,
+460,10,The Moderate,,46,46,5/22/1649 0:00:00,5/29/1649 0:00:00,519,,
+461,5,The Perfect Weekly Account,,40,0,5/23/1649 0:00:00,5/30/1649 0:00:00,493,,
+462,15,The Impartiall Intelligencer,,13,13,5/23/1649 0:00:00,5/30/1649 0:00:00,97,,
+463,27,A Moderate Intelligence,,2,2,5/24/1649 0:00:00,5/31/1649 0:00:00,9,,
+464,28,Mercurius Pacificus,,2,2,5/24/1649 0:00:00,5/31/1649 0:00:00,9,,
+465,31,Mercurius Melancholicus for Charles II,,1,1,5/24/1649 0:00:00,5/24/1649 0:00:00,1,,
+466,11,Perfect Occurences,,126,126,5/25/1649 0:00:00,,1049,,
+467,14,The Kingdoms Faithfull Scout,,18,18,5/25/1649 0:00:00,6/1/1649 00:00:00,137,,
+468,16,A Modest Narrative,,9,9,5/26/1649 0:00:00,6/2/1649 00:00:00,65,,
+469,20,England's Moderate Messenger,,6,6,5/28/1649 0:00:00,6/4/1649 00:00:00,41,,
+470,6,A Perfect Diurnall,,305,305,5/28/1649 0:00:00,6/4/1649 00:00:00,2541,,
+471,12,A Perfect Summary,,20,20,5/28/1649 0:00:00,6/4/1649 00:00:00,155,,
+472,18,Man in the Moon,,8,8,5/28/1649 0:00:00,6/4/1649 00:00:00,67,,Not news
+473,24,Mercurius Elencticus 2,,6,6,5/28/1649 0:00:00,6/4/1649 00:00:00,41,,
+474,4,The Kingdomes Weekly Intelligencer,,314,314,5/29/1649 0:00:00,6/5/1649 00:00:00,1377,,
+475,22,Mercurius Britannicus,,7,7,5/29/1649 0:00:00,6/5/1649 00:00:00,47,,
+476,10,The Moderate,,47,47,5/29/1649 0:00:00,6/5/1649 00:00:00,531,,
+477,21,Mercurius Pragmaticus for Charles II,,7,7,5/29/1649 0:00:00,6/5/1649 00:00:00,0,,Not really news
+478,15,The Impartiall Intelligencer,,14,14,5/30/1649 0:00:00,6/6/1649 00:00:00,105,,
+479,5,The Perfect Weekly Account,,41,41,5/30/1649 0:00:00,6/6/1649 00:00:00,501,,
+480,11,Perfect Occurences,,127,127,6/1/1649 00:00:00,6/8/1649 00:00:00,108,,
+481,14,The Kingdoms Faithfull Scout,,19,19,6/1/1649 00:00:00,6/8/1649 00:00:00,145,,
+482,16,A Modest Narrative,,10,10,6/2/1649 00:00:00,6/9/1649 00:00:00,73,,
+483,12,A Perfect Summary,,21,21,6/4/1649 00:00:00,6/11/1649 00:00:00,159,,
+484,6,A Perfect Diurnall,,306,306,6/4/1649 00:00:00,6/11/1649 00:00:00,2557,,
+485,20,England's Moderate Messenger,,7,7,6/4/1649 00:00:00,6/11/1649 00:00:00,49,,
+486,24,Mercurius Elencticus,,7,7,6/4/1649 00:00:00,6/11/1649 00:00:00,49,,Not really news
+487,21,Mercurius Pragmaticus for Charles II,,8,8,6/5/1649 00:00:00,6/12/1649 00:00:00,57,,Not really news
+488,4,The Kingdomes Weekly Intelligencer,,315,315,6/5/1649 00:00:00,6/12/1649 00:00:00,1385,,
+489,10,The Moderate,,48,48,6/5/1649 00:00:00,6/12/1649 00:00:00,543,,
+490,18,Man in the Moon,,9,9,6/5/1649 00:00:00,6/13/1649 0:00:00,75,,Not really news
+491,15,The Impartiall Intelligencer,,15,15,6/5/1649 00:00:00,6/13/1649 0:00:00,113,,
+492,5,The Perfect Weekly Account,,42,42,6/6/1649 00:00:00,6/13/1649 0:00:00,501,,
+493,11,Perfect Occurences,,128,128,6/8/1649 00:00:00,6/15/1649 0:00:00,1065,,
+494,14,The Kingdoms Faithfull Scout,,20,20,6/8/1649 00:00:00,6/15/1649 0:00:00,153,,
+495,16,A Modest Narrative,,11,11,6/9/1649 00:00:00,6/16/1649 0:00:00,81,,
+496,6,A Perfect Diurnall,,307,307,6/11/1649 00:00:00,6/18/1649 0:00:00,2573,,
+497,12,A Perfect Summary,,22,22,6/11/1649 00:00:00,6/18/1649 0:00:00,167,,
+498,24,Mercurius Elencticus,,8,8,6/11/1649 00:00:00,6/18/1649 0:00:00,57,,Not really news
+499,20,England's Moderate Messenger,,8,8,6/12/1649 00:00:00,6/19/1649 0:00:00,49,,
+500,4,The Kingdomes Weekly Intelligencer,,316,316,6/12/1649 00:00:00,6/19/1649 0:00:00,1393,,
+501,10,The Moderate,,49,49,6/12/1649 00:00:00,6/19/1649 0:00:00,555,,
+502,21,Mercurius Pragmaticus for Charles II,,9,9,6/12/1649 00:00:00,6/19/1649 0:00:00,0,,Not really news
+503,15,The Impartiall Intelligencer,,16,16,6/13/1649 0:00:00,6/20/1649 0:00:00,121,,
+504,5,The Perfect Weekly Account,,0,0,6/13/1649 0:00:00,6/20/1649 0:00:00,517,,
+505,32,The Moderate Mercury,,1,1,6/14/1649 0:00:00,6/21/1649 0:00:00,1,,
+506,11,Perfect Occurences,,129,129,6/15/1649 0:00:00,6/22/1649 0:00:00,1113,,
+507,14,The Kingdoms Faithfull Scout,,21,21,6/15/1649 0:00:00,6/22/1649 0:00:00,161,,
+508,16,A Modest Narrative,,12,12,6/16/1649 0:00:00,6/23/1649 0:00:00,89,,
+509,6,A Perfect Diurnall,,308,308,6/18/1649 0:00:00,6/25/1649 0:00:00,2589,,
+510,20,England's Moderate Messenger,,9,9,6/18/1649 0:00:00,6/25/1649 0:00:00,65,,
+511,12,A Perfect Summary,,23,23,6/18/1649 0:00:00,6/25/1649 0:00:00,175,,
+512,4,The Kingdomes Weekly Intelligencer,,317,317,6/19/1649 0:00:00,6/26/1649 0:00:00,1401,,
+513,10,The Moderate,,50,50,6/19/1649 0:00:00,6/26/1649 0:00:00,567,,
+514,15,The Impartiall Intelligencer,,17,17,6/20/1649 0:00:00,6/27/1649 0:00:00,129,,
+515,5,The Perfect Weekly Account,,0,0,6/20/1649 0:00:00,6/27/1649 0:00:00,525,,
+516,32,The Moderate Mercury,,2,2,6/21/1649 0:00:00,6/28/1649 0:00:00,9,,
+517,11,Perfect Occurences,,130,130,6/22/1649 0:00:00,6/29/1649 0:00:00,1081,,
+518,14,The Kingdoms Faithfull Scout,,22,22,6/22/1649 0:00:00,6/29/1649 0:00:00,169,,
+519,16,A Modest Narrative,,13,13,6/23/1649 0:00:00,6/30/1649 0:00:00,97,,
+520,6,A Perfect Diurnall,,309,309,6/25/1649,7/2/1649,2607,,Lots of Irish news at beginning. News from Amsterdam - Smirna/Cretan war. Why none from Venice?
+521,20,England's Moderate Messenger,,10,10,6/25/1649,7/2/1649,57,,
+522,15,The Impartiall Intelligencer,,18,18,6/27/1649,7/3/1649,138,,
+523,11,Perfect Occurences,,131,131,6/29/1649,7/6/1649,1145,,
+524,14,The Kingdoms Faithfull Scout,,23,23,6/29/1649,7/6/1649,177,,Has Bill of Mortality and bread price - haven't seen the latter before
+525,12,A Perfect Summary,,24,24,6/25/1649,7/2/1649,184,,
+526,24,Mercurius Elencticus,,10,10,6/25/1649,7/2/1649,,,
+527,21,Mercurius Pragmaticus for Charles II,,11,11,6/26/1649,7/3/1649,,,
+528,10,The Moderate,,51,51,6/26/1649,7/3/1649,579,,
+529,4,The Kingdomes Weekly Intelligencer,,318,318,6/26/1649,7/3/1649,1409,,
+530,5,The Perfect Weekly Account,,NA,NA,6/28/1649,7/3/1649,529,,
+531,16,A Modest Narrative,,14,14,6/30/1649,7/7/1649,105,,
+532,20,England's Moderate Messenger,,11,11,7/2/1649,7/9/1649,65,,
+533,6,A Perfect Diurnall,,310,310,7/2/1649,7/9/1649,2623,,
+534,12,A Perfect Summary,,24,24,7/2/1649,7/9/1649,184,,
+535,10,The Moderate,,52,52,7/3/1649,7/101649,593,,
+536,4,The Kingdomes Weekly Intelligencer,,319,319,7/3/1649,7/10/1649,1417,,
+537,5,The Perfect Weekly Account,,NA,NA,7/4/1649,7/11/1649,536,,"Wrong catchword, possible wrong page?"
+538,16,A Modest Narrative,,15,15,7/7/1649,7/14/1649,113,,
+539,12,A Perfect Summary,,25,25,7/9/1649,7/16/1649,100,,
+540,6,A Perfect Diurnall,,311,311,7/9/1649,7/16/1649,2639,,
+541,4,The Kingdomes Weekly Intelligencer,,320,,,,,,
+542,10,The Moderate,,53,53,7/10/1649,7/17/1649,605,,
+543,21,Mercurius Pragmaticus for Charles II,,12,12,,,,,
+544,15,The Impartiall Intelligencer,,20,20,7/11/1649,7/18/1649,,,
+545,5,The Perfect Weekly Account,,NA,NA,7/11/1649,7/18/1649,,,
+546,19,The Man in the Moon,,14,14,7/11/1649,7/25/1649,,,Not entering in database
+547,14,The Kingdoms Faithfull Scout,,25,25,7/13/1649,7/20/1649,,,
+548,11,Perfect Occurences,,133,133,7/13/1649,7/20/1649,,,
+549,16,A Modest Narrative,,16,16,7/14/1649,7/21/1649,,,
+550,6,A Perfect Diurnall,,312,312,7/16/1649,7/23/1649,,,
+551,12,A Perfect Summary,,19,29,7/16/1649,7/23/1649,,,
+552,20,England's Moderate Messenger,,13,13,7/16/1649,7/23/1649,,,
+553,33,A Tuesdaies Journall,,1,1,7/17/1649,7/23/1649,,,
+554,10,The Moderate,,54,54,7/17/1649,7/24/1649,,,
+555,4,The Kingdomes Weekly Intelligencer,,321,321,7/17/1649,7/24/1649,,,
+556,15,The Impartiall Intelligencer,,21,21,7/18/1649,7/25/1649,,,
+557,5,The Perfect Weekly Account,,,,7/18/1649,7/25/1649,,,
+558,14,The Kingdoms Faithfull Scout,,26,26,7/20/1649,7/27/1649,,,
+559,16,A Modest Narrative,,17,17,7/21/1649,7/28/1649,,,
+560,6,A Perfect Diurnall,,313,312,7/23/1649,7/30/1649,3671,,
+561,12,A Perfect Summary,,20,20,7/23/1649,7/30/1649,117,,
+562,20,England's Moderate Messenger,,14,14,7/23/1649,7/30/1649,89,,
+563,33,A Tuesdaies Journall,,2,2,7/24/1649,7/31/1649,9,,
+564,10,The Moderate,,55,55,7/24/1649,7/31/1649,629,,
+565,4,The Kingdomes Weekly Intelligencer,,322,322,7/24/1649,7/31/1649,1441,,
+566,15,The Impartiall Intelligencer,,22,23,7/25/1649,8/1/1649,,,misdated - 
+567,5,The Perfect Weekly Account,,NA,NA,7/25/1649,08/01/1649,,,
+568,34,The armies painfull-messenger,,1,1,7/25/1649,8/2/1649,1,,
+569,14,The Kingdoms Faithfull Scout,,27,27,7/27/1649,8/3/1649,unclear,,
+570,11,Perfect Occurences,,135,135,7/27/1649,8/3/1649,,,
+571,16,A Modest Narrative,,18,18,7/28/1649,8/4/1649,,,
+572,6,A Perfect Diurnall,,314,314,7/30/1649,8/6/1649,,,
+573,20,England's Moderate Messenger,,15,15,7/30/1649,8/6/1649,,,
+574,12,A Perfect Summary,,21,21,7/30/1649,8/6/1649,125,,
+575,15,The Impartiall Intelligencer,,23,22,8/1/1649,8/8/1649,171,,Misdated
+576,4,The Kingdomes Weekly Intelligencer,,323,323,7/31/1649,8/7/1649,1449,,
+577,10,The Moderate,,56,56,7/31/1649,8/7/1649,641,,
+578,5,The Perfect Weekly Account,,NA,NA,8/1/1649,8/8/1649,561,,
+579,11,Perfect Occurences,,136,136,8/3/1649,8/10/1649,2209,,
+580,14,The Kingdoms Faithfull Scout,,28,28,8/3/1649,8/10/1649,209,,
+581,16,A Modest Narrative,,19,19,8/4/1649,8/11/1649,145,,
+582,6,A Perfect Diurnall,,315,315,8/6/1649,8/13/1649,2687,,
+583,20,England's Moderate Messenger,,16,16,8/6/1649,8/13/1649,205,,
+584,33,A Tuesdaies Journall,,4,4,8/7/1649,8/14/1649,25,,
+585,4,The Kingdomes Weekly Intelligencer,,324,324,8/7/1649,8/14/1649,1457,,Most of the isse dedicated to victory in Ireland. Multiple use of the word letters in the final story.
+586,10,The Moderate,,57,57,8/7/1649,8/14/1649,653,,
+587,15,The Impartiall Intelligencer,,24,23,8/7/1649,8/15/1649,185,,
+588,5,The Perfect Weekly Account,,NA,NA,8/8/1649,8/15/1649,569,,
+589,14,The Kingdoms Faithfull Scout,,29,29,8/10/1649,8/17/1649,217,,
+590,11,Perfect Occurences,,137,137,8/10/1649,8/17/1649,1217,,
+591,16,A Modest Narrative,,20,20,8/11/1649,8/18/1649,153,,
+592,12,A Perfect Summary,,22,22,8/13/1649,8/20/1649,133,,
+593,6,A Perfect Diurnall,,316,316,8/13/1649,8/20/1649,2703,,
+594,20,England's Moderate Messenger,,17,17,8/13/1649,8/20/1649,113,,
+595,33,A Tuesdaies Journall,,5,5,8/14/1649,8/21/1649,33,,
+596,4,The Kingdomes Weekly Intelligencer,,325,325,8/14/1649,8/21/1649,325,325,
+597,10,The Moderate,,58,58,8/14/1649,8/21/1649,665,,
+598,15,The Impartiall Intelligencer,,24,24,8/15/1649,8/22/1649,193,,
+599,5,The Perfect Weekly Account,,NA,NA,8/15/1649,8/22/1649,,,
+600,11,Perfect Occurences,,138,138,8/17/1649,8/24/1649,1223,,
+601,14,The Kingdoms Faithfull Scout,,30,30,8/17/1649,8/24/1649,225,,
+602,16,A Modest Narrative,,21,21,8/18/1649,8/25/1649,161,,
+603,20,England's Moderate Messenger,,18,18,8/20/1649,8/27/1649,121,,
+604,12,A Perfect Summary,,23,23,8/20/1649,8/27/1649,179,,
+605,6,A Perfect Diurnall,,317,317,8/20/1649,8/27/1649,2719,,
+606,10,The Moderate,,59,59,8/21/1649,8/28/1649,677,,
+607,4,The Kingdomes Weekly Intelligencer,,326,326,8/21/1649,8/28/1649,1473,,
+608,5,The Perfect Weekly Account,,NA,NA,8/22/1649,8/29/1649,,,wrongly dated as 22 - 27 August
+609,11,Perfect Occurences,,139,139,8/24/1649,8/31/1649,1249,,
+610,14,The Kingdoms Faithfull Scout,,31,31,8/24/1649,8/31/1649,233,,
+611,16,A Modest Narrative,,22,22,8/25/1649,9/1/1649,169,,
+612,6,A Perfect Diurnall,,318,318,,,,,
+613,20,England's Moderate Messenger,,19,19,8/27/1649,9/3/1649,229,,
+614,12,A Perfect Summary,,24,24,8/27/1649,9/3/1649,193,,
+615,11,Perfect Occurences,,140,140,8/31/1649,9/7/1649,1265,,
+616,10,The Moderate,,60,60,8/28/1649,9/4/1649,689,,
+617,5,The Perfect Weekly Account,,NA,NA,8/29/1649,9/5/1649,585,,
+618,15,The Impartiall Intelligencer,,25,25,8/30/1649,9/5/1649,209,,
+619,16,A Modest Narrative,,23,23,9/1/1649,9/8/1649,177,,
+620,20,England's Moderate Messenger,,20,20,9/3/1649,9/10/1649,,,
+621,12,A Perfect Summary,,25,25,9/3/1649,9/10/1649,201,,
+622,6,A Perfect Diurnall,,319,319,9/3/1649,9/10/1649,2731,,
+623,4,The Kingdomes Weekly Intelligencer,,328,328,9/4/1649,9/11/1649,1489,,327 missing from EEBO
+624,10,The Moderate,,61,61,9/4/1649,9/11/1649,701,,
+625,15,The Impartiall Intelligencer,,26,25,9/5/1649,9/12/1649,209,,
+626,5,The Perfect Weekly Account,,NA,NA,9/5/0164,9/13/1649,593,,
+627,11,Perfect Occurences,,141,141,9/7/1649,9/14/1649,1281,,
+628,14,The Kingdoms Faithfull Scout,,33,33,,,,,
+629,16,A Modest Narrative,,24,24,9/8/1649,9/15/1649,185,,
+630,12,A Perfect Summary,,26,26,9/10/1649,9/17/1649,,,
+631,6,A Perfect Diurnall,,320,320,9/10/1649,9/17/1649,2767,,
+632,20,England's Moderate Messenger,,21,21,9/10/1649,9/17/1649,137,,
+633,4,The Kingdomes Weekly Intelligencer,,329,329,9/11/1649,9/18/1649,1457,,
+634,10,The Moderate,,62,62,9/11/1649,9/18/1649,713,,
+635,15,The Impartiall Intelligencer,,26,26,9/12/1649,9/19/1649,216,,
+636,5,The Perfect Weekly Account,,NA,NA,9/12/1649,9/19/1649,601,,
+637,11,Perfect Occurences,,142,142,9/14/1649,9/21/1649,1260,,
+638,14,The Kingdoms Faithfull Scout,,34,34,9/14/1649,9/21/1649,,,
+639,16,A Modest Narrative,,25,25,9/15/1649,9/22/1649,193,,
+640,12,A Perfect Summary,,27,26,9/17/1649,9/24/1649,299,,
+641,6,A Perfect Diurnall,,321,321,9/17/1649,9/24/1649,2783,,
+642,20,England's Moderate Messenger,,22,22,9/17/1649,9/24/1649,145,,
+643,10,The Moderate,,63,63,9/18/1649,9/25/1649,725,,
+644,4,The Kingdomes Weekly Intelligencer,,330,330,9/18/1649,9/25/1649,1505,,
+645,5,The Perfect Weekly Account,,NA,NA,9/19/1649,9/26/1649,609,,
+646,14,The Kingdoms Faithfull Scout,,35,35,9/21/1649,9/28/1649,249,,Lots of reuse of the Moderate 63
+647,11,Perfect Occurences,,143,143,9/21/1649,9/28/1649,1313,,
+648,6,A Perfect Diurnall,,322,322,9/24/1649,10/1/1649,2799,,
+649,12,A Perfect Summary,,28,27,9/24/1649,10/1/1649,219,,
+650,4,The Kingdomes Weekly Intelligencer,,331,331,9/25/1649,10/2/1649,1583,,
+651,5,The Perfect Weekly Account,,NA,NA,9/26/1649,10/03/1649,617,,
+652,6,A Perfect Diurnall,,323,323,10/01/1649,10/08/1649,2811,,
+653,11,Perfect Occurences,,144,144,9/28/1649,10/08/1649,1273,,
+654,14,The Kingdoms Faithfull Scout,,36,36,9/28/1649,10/05/1649,257,,
+655,4,The Kingdomes Weekly Intelligencer,,332,332,10/02/1649,10/09/1649,1521,,
+656,5,The Perfect Weekly Account,,NA,NA,10/03/1649,10/10/1649,625,,
+657,14,The Kingdoms Faithfull Scout,,37,37,10/05/1649,10/12/1649,265,,
+658,11,Perfect Occurences,,145,145,10/05/1649,10/12/1649,1337,,
